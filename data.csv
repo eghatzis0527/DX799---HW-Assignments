@@ -39,7 +39,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 13-01-20,6622,US-2017-167402,Second Class,CP-12085,Corporate,United States,Springfield,Missouri,65807,Central,FUR-BO-10001608,Furniture,Bookcases,"Hon Metal Bookcases, Black",212.94,3,0,53.235
 14-01-20,1183,CA-2017-138779,First Class,RB-19570,Consumer,United States,Jacksonville,North Carolina,28540,South,OFF-EN-10002504,Office Supplies,Envelopes,"Tyvek  Top-Opening Peel & Seel Envelopes, Plain White",21.744,1,0.2,7.3386
 14-01-20,1184,CA-2017-138779,First Class,RB-19570,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-PH-10003655,Technology,Phones,Sannysis Cute Owl Design Soft Skin Case Cover for Samsung Galaxy S4,7.92,5,0.2,0.693
-14-01-20,4165,US-2017-106131,First Class,TP-21565,Corporate,United States,Aurora,Colorado,80013,West,TEC-AC-10003027,Technology,Accessories,Imation 8GB Mini TravelDrive USB 2.0 Flash Drive,169.064,7,0.2,-14.7931
+14-01-20,4165,US-2017-106131,First Class,TP-21565,Corporate,United States,Aurora,Colorado,80013,West,TEC-AC-10003027,Technology,Accessories,ImationÂ 8GB Mini TravelDrive USB 2.0Â Flash Drive,169.064,7,0.2,-14.7931
 14-01-20,4166,US-2017-106131,First Class,TP-21565,Corporate,United States,Aurora,Colorado,80013,West,OFF-ST-10003638,Office Supplies,Storage,Mobile Personal File Cube,168.624,9,0.2,14.7546
 14-01-20,4910,CA-2017-127306,Standard Class,BH-11710,Consumer,United States,Johnson City,Tennessee,37604,South,OFF-EN-10001219,Office Supplies,Envelopes,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",18.336,3,0.2,6.6468
 14-01-20,4911,CA-2017-127306,Standard Class,BH-11710,Consumer,United States,Johnson City,Tennessee,37604,South,OFF-PA-10000019,Office Supplies,Paper,Xerox 1931,36.288,7,0.2,12.7008
@@ -51,7 +51,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 14-01-20,9860,CA-2017-113278,Standard Class,HR-14770,Home Office,United States,Richmond,Indiana,47374,Central,OFF-FA-10003472,Office Supplies,Fasteners,Bagged Rubber Bands,2.52,2,0,0.1008
 14-01-20,9861,CA-2017-113278,Standard Class,HR-14770,Home Office,United States,Richmond,Indiana,47374,Central,TEC-PH-10000169,Technology,Phones,ARKON Windshield Dashboard Air Vent Car Mount Holder,67.8,4,0,1.356
 14-01-20,9862,CA-2017-113278,Standard Class,HR-14770,Home Office,United States,Richmond,Indiana,47374,Central,OFF-ST-10002562,Office Supplies,Storage,Staple magnet,18.76,2,0,5.2528
-14-01-20,9863,CA-2017-113278,Standard Class,HR-14770,Home Office,United States,Richmond,Indiana,47374,Central,TEC-AC-10001445,Technology,Accessories,Imation USB 2.0 Swivel Flash Drive USB flash drive - 4 GB - Pink,12.12,4,0,2.5452
+14-01-20,9863,CA-2017-113278,Standard Class,HR-14770,Home Office,United States,Richmond,Indiana,47374,Central,TEC-AC-10001445,Technology,Accessories,ImationÂ USB 2.0 SwivelÂ Flash DriveÂ USBÂ flash driveÂ - 4 GB - Pink,12.12,4,0,2.5452
 14-01-20,9864,CA-2017-113278,Standard Class,HR-14770,Home Office,United States,Richmond,Indiana,47374,Central,OFF-PA-10004156,Office Supplies,Paper,Xerox 188,11.34,1,0,5.5566
 14-01-20,9865,CA-2017-113278,Standard Class,HR-14770,Home Office,United States,Richmond,Indiana,47374,Central,TEC-AC-10004469,Technology,Accessories,Microsoft Sculpt Comfort Mouse,159.8,4,0,70.312
 14-01-20,9866,CA-2017-113278,Standard Class,HR-14770,Home Office,United States,Richmond,Indiana,47374,Central,FUR-FU-10001037,Furniture,Furnishings,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",18.96,2,0,8.532
@@ -84,7 +84,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 20-01-20,5425,US-2017-120649,Standard Class,JF-15490,Consumer,United States,Waterbury,Connecticut,6708,East,OFF-AR-10001545,Office Supplies,Art,Newell 326,3.52,2,0,1.0208
 20-01-20,7408,CA-2017-152079,First Class,ML-17410,Consumer,United States,Chicago,Illinois,60653,Central,OFF-LA-10001613,Office Supplies,Labels,Avery File Folder Labels,11.52,5,0.2,4.176
 21-01-20,733,CA-2017-131954,Standard Class,DS-13030,Home Office,United States,Seattle,Washington,98115,West,OFF-ST-10000736,Office Supplies,Storage,Carina Double Wide Media Storage Towers in Natural & Black,242.94,3,0,9.7176
-21-01-20,734,CA-2017-131954,Standard Class,DS-13030,Home Office,United States,Seattle,Washington,98115,West,TEC-AC-10003610,Technology,Accessories,Logitech Illuminated - Keyboard,179.97,3,0,86.3856
+21-01-20,734,CA-2017-131954,Standard Class,DS-13030,Home Office,United States,Seattle,Washington,98115,West,TEC-AC-10003610,Technology,Accessories,LogitechÂ Illuminated - Keyboard,179.97,3,0,86.3856
 21-01-20,735,CA-2017-131954,Standard Class,DS-13030,Home Office,United States,Seattle,Washington,98115,West,OFF-BI-10003982,Office Supplies,Binders,Wilson Jones Century Plastic Molded Ring Binders,99.696,6,0.2,33.6474
 21-01-20,736,CA-2017-131954,Standard Class,DS-13030,Home Office,United States,Seattle,Washington,98115,West,OFF-BI-10003291,Office Supplies,Binders,Wilson Jones Leather-Like Binders with DublLock Round Rings,27.936,4,0.2,9.4284
 21-01-20,737,CA-2017-131954,Standard Class,DS-13030,Home Office,United States,Seattle,Washington,98115,West,FUR-BO-10001619,Furniture,Bookcases,O'Sullivan Cherrywood Estates Traditional Bookcase,84.98,1,0,18.6956
@@ -113,7 +113,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 24-01-20,2376,CA-2017-119669,Standard Class,TP-21130,Consumer,United States,Smyrna,Georgia,30080,South,OFF-FA-10000053,Office Supplies,Fasteners,Revere Boxed Rubber Bands by Revere,5.67,3,0,0.1134
 24-01-20,9596,CA-2017-104619,Standard Class,KD-16495,Corporate,United States,San Jose,California,95123,West,OFF-AP-10001492,Office Supplies,Appliances,"Acco Six-Outlet Power Strip, 4' Cord Length",25.86,3,0,6.7236
 24-01-20,9597,CA-2017-104619,Standard Class,KD-16495,Corporate,United States,San Jose,California,95123,West,OFF-BI-10004318,Office Supplies,Binders,Ibico EB-19 Dual Function Manual Binding System,276.784,2,0.2,89.9548
-24-01-20,9598,CA-2017-104619,Standard Class,KD-16495,Corporate,United States,San Jose,California,95123,West,TEC-PH-10000193,Technology,Phones,Jensen SMPS-640 - speaker phone,110.352,3,0.2,8.2764
+24-01-20,9598,CA-2017-104619,Standard Class,KD-16495,Corporate,United States,San Jose,California,95123,West,TEC-PH-10000193,Technology,Phones,Jensen SMPS-640 -Â speaker phone,110.352,3,0.2,8.2764
 26-01-20,2834,CA-2017-134649,Second Class,CA-11965,Corporate,United States,Hoover,Alabama,35244,South,OFF-AR-10001547,Office Supplies,Art,Newell 311,15.47,7,0,4.1769
 26-01-20,2835,CA-2017-134649,Second Class,CA-11965,Corporate,United States,Hoover,Alabama,35244,South,OFF-BI-10001890,Office Supplies,Binders,Avery Poly Binder Pockets,7.16,2,0,3.4368
 26-01-20,5492,CA-2017-164098,First Class,CG-12520,Consumer,United States,Houston,Texas,77070,Central,OFF-ST-10000615,Office Supplies,Storage,"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",18.16,2,0.2,1.816
@@ -123,7 +123,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 27-01-20,2169,CA-2017-117870,Second Class,JH-15820,Consumer,United States,Kent,Ohio,44240,East,OFF-AR-10004078,Office Supplies,Art,Newell 312,14.016,3,0.2,1.752
 27-01-20,2170,CA-2017-117870,Second Class,JH-15820,Consumer,United States,Kent,Ohio,44240,East,TEC-AC-10000927,Technology,Accessories,Anker Ultrathin Bluetooth Wireless Keyboard Aluminum Cover with Stand ,71.976,3,0.2,-8.997
 27-01-20,2171,CA-2017-117870,Second Class,JH-15820,Consumer,United States,Kent,Ohio,44240,East,TEC-PH-10003931,Technology,Phones,JBL Micro Wireless Portable Bluetooth Speaker,107.982,3,0.4,-26.9955
-27-01-20,7222,US-2017-104437,Standard Class,TG-21310,Consumer,United States,New York City,New York,10035,East,TEC-PH-10000193,Technology,Phones,Jensen SMPS-640 - speaker phone,137.94,3,0,35.8644
+27-01-20,7222,US-2017-104437,Standard Class,TG-21310,Consumer,United States,New York City,New York,10035,East,TEC-PH-10000193,Technology,Phones,Jensen SMPS-640 -Â speaker phone,137.94,3,0,35.8644
 28-01-20,1415,CA-2017-115994,Second Class,BT-11305,Home Office,United States,Costa Mesa,California,92627,West,TEC-AC-10000580,Technology,Accessories,Logitech G13 Programmable Gameboard with LCD Display,239.97,3,0,26.3967
 28-01-20,1416,CA-2017-115994,Second Class,BT-11305,Home Office,United States,Costa Mesa,California,92627,West,FUR-FU-10003976,Furniture,Furnishings,"DAX Executive Solid Wood Document Frame, Desktop or Hang, Mahogany, 5 x 7",37.74,3,0,12.8316
 28-01-20,4784,US-2017-147984,Standard Class,GB-14575,Consumer,United States,Wichita,Kansas,67212,Central,OFF-PA-10000806,Office Supplies,Paper,Xerox 1934,279.9,5,0,137.151
@@ -191,7 +191,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 10/2/2020,2368,CA-2017-123659,First Class,MN-17935,Consumer,United States,Clinton,Maryland,20735,East,OFF-PA-10002464,Office Supplies,Paper,HP Office Recycled Paper (20Lb. and 87 Bright),23.12,4,0,11.3288
 11/2/2020,1520,CA-2017-116204,Second Class,VW-21775,Corporate,United States,San Francisco,California,94110,West,OFF-BI-10001759,Office Supplies,Binders,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",21.336,7,0.2,7.7343
 11/2/2020,3146,CA-2017-131828,Second Class,CS-11845,Corporate,United States,Seattle,Washington,98105,West,FUR-CH-10004495,Furniture,Chairs,"Global Leather and Oak Executive Chair, Black",963.136,4,0.2,108.3528
-11/2/2020,3147,CA-2017-131828,Second Class,CS-11845,Corporate,United States,Seattle,Washington,98105,West,TEC-PH-10002923,Technology,Phones,"Logitech B530 USB Headset - headset - Full size, Binaural",88.776,3,0.2,7.7679
+11/2/2020,3147,CA-2017-131828,Second Class,CS-11845,Corporate,United States,Seattle,Washington,98105,West,TEC-PH-10002923,Technology,Phones,"Logitech B530 USBÂ HeadsetÂ -Â headsetÂ - Full size, Binaural",88.776,3,0.2,7.7679
 11/2/2020,8483,US-2017-118535,Standard Class,DJ-13510,Corporate,United States,New York City,New York,10024,East,OFF-LA-10001297,Office Supplies,Labels,Avery 473,20.7,2,0,9.936
 11/2/2020,9239,CA-2017-138156,First Class,MM-17260,Consumer,United States,Columbus,Ohio,43229,East,FUR-FU-10003601,Furniture,Furnishings,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",147.568,2,0.2,-3.6892
 13-02-20,2730,CA-2017-104801,Standard Class,FH-14350,Consumer,United States,Seattle,Washington,98105,West,OFF-AR-10001547,Office Supplies,Art,Newell 311,6.63,3,0,1.7901
@@ -230,18 +230,18 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 19-02-20,3963,CA-2017-134838,First Class,ED-13885,Home Office,United States,Los Angeles,California,90045,West,OFF-AR-10000634,Office Supplies,Art,Newell 320,12.84,3,0,3.4668
 19-02-20,3964,CA-2017-134838,First Class,ED-13885,Home Office,United States,Los Angeles,California,90045,West,FUR-FU-10004018,Furniture,Furnishings,Tensor Computer Mounted Lamp,44.67,3,0,12.0609
 20-02-20,801,CA-2017-105809,First Class,HW-14935,Corporate,United States,San Diego,California,92105,West,FUR-FU-10004090,Furniture,Furnishings,"Executive Impressions 14"" Contract Wall Clock",22.23,1,0,7.3359
-20-02-20,802,CA-2017-105809,First Class,HW-14935,Corporate,United States,San Diego,California,92105,West,TEC-PH-10001580,Technology,Phones,Logitech Mobile Speakerphone P710e - speaker phone,215.968,2,0.2,18.8972
+20-02-20,802,CA-2017-105809,First Class,HW-14935,Corporate,United States,San Diego,California,92105,West,TEC-PH-10001580,Technology,Phones,Logitech Mobile Speakerphone P710e -Â speaker phone,215.968,2,0.2,18.8972
 20-02-20,3286,CA-2017-150525,Standard Class,JP-16135,Home Office,United States,Muskogee,Oklahoma,74403,Central,OFF-AR-10002375,Office Supplies,Art,Newell 351,6.56,2,0,1.9024
 20-02-20,3287,CA-2017-150525,Standard Class,JP-16135,Home Office,United States,Muskogee,Oklahoma,74403,Central,OFF-AP-10000595,Office Supplies,Appliances,Disposable Triple-Filter Dust Bags,13.11,3,0,3.4086
 20-02-20,4523,CA-2017-105445,Second Class,BP-11095,Corporate,United States,Louisville,Colorado,80027,West,OFF-FA-10001229,Office Supplies,Fasteners,Staples,9.432,3,0.2,3.0654
-20-02-20,6655,CA-2017-135937,Standard Class,KM-16375,Home Office,United States,Gilbert,Arizona,85234,West,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IP Telephone,333.576,3,0.2,25.0182
+20-02-20,6655,CA-2017-135937,Standard Class,KM-16375,Home Office,United States,Gilbert,Arizona,85234,West,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IPÂ Telephone,333.576,3,0.2,25.0182
 20-02-20,6656,CA-2017-135937,Standard Class,KM-16375,Home Office,United States,Gilbert,Arizona,85234,West,TEC-AC-10001114,Technology,Accessories,Microsoft Wireless Mobile Mouse 4000,31.992,1,0.2,4.7988
 20-02-20,6657,CA-2017-135937,Standard Class,KM-16375,Home Office,United States,Gilbert,Arizona,85234,West,OFF-ST-10000563,Office Supplies,Storage,Fellowes Bankers Box Stor/Drawer Steel Plus,51.168,2,0.2,-6.396
 20-02-20,6658,CA-2017-135937,Standard Class,KM-16375,Home Office,United States,Gilbert,Arizona,85234,West,OFF-EN-10004846,Office Supplies,Envelopes,Letter or Legal Size Expandable Poly String Tie Envelopes,10.64,5,0.2,3.857
 20-02-20,6659,CA-2017-135937,Standard Class,KM-16375,Home Office,United States,Gilbert,Arizona,85234,West,FUR-FU-10002253,Furniture,Furnishings,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",68.704,2,0.2,16.3172
 20-02-20,6660,CA-2017-135937,Standard Class,KM-16375,Home Office,United States,Gilbert,Arizona,85234,West,FUR-TA-10001039,Furniture,Tables,KI Adjustable-Height Table,386.91,9,0.5,-185.7168
 21-02-20,9318,CA-2017-124940,Standard Class,DK-13090,Consumer,United States,Carrollton,Texas,75007,Central,TEC-AC-10002076,Technology,Accessories,Microsoft Natural Keyboard Elite,47.904,1,0.2,-2.994
-23-02-20,2083,CA-2017-104647,Standard Class,CK-12595,Consumer,United States,Los Angeles,California,90008,West,OFF-PA-10002870,Office Supplies,Paper,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 ¾” x 11”",37.44,6,0,16.848
+23-02-20,2083,CA-2017-104647,Standard Class,CK-12595,Consumer,United States,Los Angeles,California,90008,West,OFF-PA-10002870,Office Supplies,Paper,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 Â¾Â” x 11Â”",37.44,6,0,16.848
 23-02-20,6027,CA-2017-136007,Standard Class,AC-10615,Corporate,United States,Seattle,Washington,98115,West,OFF-FA-10002701,Office Supplies,Fasteners,Alliance Rubber Bands,8.4,5,0,0.336
 23-02-20,6028,CA-2017-136007,Standard Class,AC-10615,Corporate,United States,Seattle,Washington,98115,West,TEC-PH-10003589,Technology,Phones,invisibleSHIELD by ZAGG Smudge-Free Screen Protector,71.96,5,0.2,25.186
 24-02-20,1992,CA-2017-111374,Standard Class,CB-12415,Consumer,United States,Philadelphia,Pennsylvania,19134,East,OFF-BI-10004970,Office Supplies,Binders,"ACCOHIDE 3-Ring Binder, Blue, 1""",4.956,4,0.7,-3.7996
@@ -251,7 +251,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 25-02-20,7534,US-2017-134642,Standard Class,SW-20245,Consumer,United States,Greenville,North Carolina,27834,South,FUR-CH-10002880,Furniture,Chairs,"Global High-Back Leather Tilter, Burgundy",196.784,2,0.2,-22.1382
 25-02-20,7535,US-2017-134642,Standard Class,SW-20245,Consumer,United States,Greenville,North Carolina,27834,South,FUR-BO-10004709,Furniture,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",231.92,5,0.2,5.798
 26-02-20,1189,CA-2017-117212,Second Class,BT-11530,Home Office,United States,Los Angeles,California,90036,West,OFF-AP-10004532,Office Supplies,Appliances,Kensington 6 Outlet Guardian Standard Surge Protector,81.92,4,0,22.1184
-26-02-20,1190,CA-2017-117212,Second Class,BT-11530,Home Office,United States,Los Angeles,California,90036,West,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IP Telephone,889.536,8,0.2,66.7152
+26-02-20,1190,CA-2017-117212,Second Class,BT-11530,Home Office,United States,Los Angeles,California,90036,West,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IPÂ Telephone,889.536,8,0.2,66.7152
 26-02-20,1191,CA-2017-117212,Second Class,BT-11530,Home Office,United States,Los Angeles,California,90036,West,FUR-CH-10003973,Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,892.224,3,0.2,89.2224
 26-02-20,1192,CA-2017-117212,Second Class,BT-11530,Home Office,United States,Los Angeles,California,90036,West,OFF-PA-10001970,Office Supplies,Paper,Xerox 1908,223.92,4,0,109.7208
 26-02-20,1193,CA-2017-117212,Second Class,BT-11530,Home Office,United States,Los Angeles,California,90036,West,OFF-PA-10000682,Office Supplies,Paper,Xerox 1924,23.12,4,0,11.3288
@@ -260,7 +260,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 26-02-20,9992,CA-2017-121258,Standard Class,DB-13060,Consumer,United States,Costa Mesa,California,92627,West,TEC-PH-10003645,Technology,Phones,Aastra 57i VoIP phone,258.576,2,0.2,19.3932
 26-02-20,9993,CA-2017-121258,Standard Class,DB-13060,Consumer,United States,Costa Mesa,California,92627,West,OFF-PA-10004041,Office Supplies,Paper,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",29.6,4,0,13.32
 28-02-20,9766,CA-2017-101959,Standard Class,DB-13660,Consumer,United States,Middletown,Connecticut,6457,East,OFF-BI-10001757,Office Supplies,Binders,Pressboard Hanging Data Binders for Unburst Sheets,9.84,2,0,4.7232
-28-02-20,9767,CA-2017-101959,Standard Class,DB-13660,Consumer,United States,Middletown,Connecticut,6457,East,OFF-PA-10002137,Office Supplies,Paper,"Southworth 100% Résumé Paper, 24lb.",7.78,1,0,3.501
+28-02-20,9767,CA-2017-101959,Standard Class,DB-13660,Consumer,United States,Middletown,Connecticut,6457,East,OFF-PA-10002137,Office Supplies,Paper,"Southworth 100% RÃ©sumÃ© Paper, 24lb.",7.78,1,0,3.501
 2/3/2020,1770,CA-2017-146024,Standard Class,SC-20770,Corporate,United States,Dallas,Texas,75081,Central,OFF-SU-10001935,Office Supplies,Supplies,Staple remover,6.976,4,0.2,-1.3952
 2/3/2020,1771,CA-2017-146024,Standard Class,SC-20770,Corporate,United States,Dallas,Texas,75081,Central,OFF-BI-10003291,Office Supplies,Binders,Wilson Jones Leather-Like Binders with DublLock Round Rings,12.222,7,0.8,-20.1663
 2/3/2020,2509,CA-2017-163902,Standard Class,MY-17380,Corporate,United States,Los Angeles,California,90045,West,TEC-PH-10000675,Technology,Phones,Panasonic KX TS3282B Corded phone,196.776,3,0.2,14.7582
@@ -276,7 +276,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 3/3/2020,3062,CA-2017-127621,Standard Class,RE-19450,Consumer,United States,Dallas,Texas,75081,Central,OFF-PA-10001307,Office Supplies,Paper,"Important Message Pads, 50 4-1/4 x 5-1/2 Forms per Pad",26.88,8,0.2,9.744
 3/3/2020,3474,CA-2017-111815,Standard Class,EP-13915,Consumer,United States,Dearborn Heights,Michigan,48127,Central,FUR-CH-10000785,Furniture,Chairs,Global Ergonomic Managers Chair,180.98,1,0,47.0548
 3/3/2020,3475,CA-2017-111815,Standard Class,EP-13915,Consumer,United States,Dearborn Heights,Michigan,48127,Central,TEC-AC-10002926,Technology,Accessories,Logitech Wireless Marathon Mouse M705,99.98,2,0,42.9914
-3/3/2020,6576,CA-2017-123085,Standard Class,EJ-13720,Consumer,United States,Los Angeles,California,90008,West,TEC-AC-10000990,Technology,Accessories,Imation Bio 2GB USB Flash Drive Imation Corp,1049.44,8,0,440.7648
+3/3/2020,6576,CA-2017-123085,Standard Class,EJ-13720,Consumer,United States,Los Angeles,California,90008,West,TEC-AC-10000990,Technology,Accessories,Imation Bio 2GB USBÂ Flash Drive ImationÂ Corp,1049.44,8,0,440.7648
 3/3/2020,6577,CA-2017-123085,Standard Class,EJ-13720,Consumer,United States,Los Angeles,California,90008,West,FUR-CH-10003968,Furniture,Chairs,Novimex Turbo Task Chair,170.352,3,0.2,-17.0352
 3/3/2020,8619,CA-2017-117513,Standard Class,BT-11395,Corporate,United States,Los Angeles,California,90004,West,FUR-TA-10001520,Furniture,Tables,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",399.672,7,0.2,-14.9877
 4/3/2020,420,CA-2017-110478,Standard Class,SP-20860,Corporate,United States,Los Angeles,California,90045,West,OFF-AR-10001573,Office Supplies,Art,American Pencil,9.32,4,0,2.7028
@@ -321,7 +321,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 10/3/2020,4294,CA-2017-130967,Standard Class,EB-13870,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-PH-10004896,Technology,Phones,Nokia Lumia 521 (T-Mobile),53.982,3,0.4,-10.7964
 10/3/2020,4997,CA-2017-155824,Standard Class,KS-16300,Corporate,United States,Raleigh,North Carolina,27604,South,OFF-AP-10000390,Office Supplies,Appliances,Euro Pro Shark Stick Mini Vacuum,48.784,1,0.2,3.6588
 10/3/2020,4998,CA-2017-155824,Standard Class,KS-16300,Corporate,United States,Raleigh,North Carolina,27604,South,OFF-BI-10000014,Office Supplies,Binders,Heavy-Duty E-Z-D Binders,13.092,4,0.7,-10.0372
-10/3/2020,6689,CA-2017-140494,Second Class,CM-11815,Corporate,United States,San Francisco,California,94109,West,TEC-AC-10004568,Technology,Accessories,Maxell LTO Ultrium - 800 GB,111.96,4,0,21.2724
+10/3/2020,6689,CA-2017-140494,Second Class,CM-11815,Corporate,United States,San Francisco,California,94109,West,TEC-AC-10004568,Technology,Accessories,MaxellÂ LTO Ultrium - 800 GB,111.96,4,0,21.2724
 10/3/2020,8413,CA-2017-132290,Standard Class,MD-17350,Consumer,United States,Dallas,Texas,75217,Central,FUR-TA-10002228,Furniture,Tables,"Bevis Traditional Conference Table Top, Plinth Base",933.408,4,0.3,-173.3472
 11/3/2020,2994,CA-2017-147291,Standard Class,MJ-17740,Consumer,United States,Detroit,Michigan,48227,Central,OFF-BI-10003091,Office Supplies,Binders,GBC DocuBind TL200 Manual Binding Machine,895.92,4,0,421.0824
 11/3/2020,7144,US-2017-141558,Standard Class,MH-17290,Home Office,United States,Philadelphia,Pennsylvania,19140,East,TEC-PH-10002555,Technology,Phones,Nortel Meridian M5316 Digital phone,776.85,5,0.4,-181.265
@@ -402,7 +402,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 19-03-20,9228,CA-2017-140515,Standard Class,GZ-14545,Corporate,United States,Los Angeles,California,90008,West,OFF-AP-10001205,Office Supplies,Appliances,Belkin 5 Outlet SurgeMaster Power Centers,381.36,7,0,106.7808
 19-03-20,9890,CA-2017-166499,First Class,VG-21805,Corporate,United States,Lakewood,New Jersey,8701,East,OFF-AR-10002467,Office Supplies,Art,Dixon Ticonderoga Pencils,8.94,3,0,2.4138
 20-03-20,447,CA-2017-154214,Second Class,TB-21595,Consumer,United States,Columbus,Indiana,47201,Central,FUR-FU-10000206,Furniture,Furnishings,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",2.91,1,0,1.3677
-20-03-20,2321,CA-2017-165491,Standard Class,HW-14935,Corporate,United States,Seattle,Washington,98115,West,TEC-AC-10000358,Technology,Accessories,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,265.93,7,0,63.8232
+20-03-20,2321,CA-2017-165491,Standard Class,HW-14935,Corporate,United States,Seattle,Washington,98115,West,TEC-AC-10000358,Technology,Accessories,ImationÂ SecureÂ DriveÂ + Hardware Encrypted USBÂ flash driveÂ - 16 GB,265.93,7,0,63.8232
 20-03-20,8155,US-2017-143770,Standard Class,RD-19720,Consumer,United States,Middletown,Connecticut,6457,East,TEC-AC-10002842,Technology,Accessories,WD My Passport Ultra 2TB Portable External Hard Drive,238,2,0,38.08
 20-03-20,8156,US-2017-143770,Standard Class,RD-19720,Consumer,United States,Middletown,Connecticut,6457,East,OFF-PA-10001125,Office Supplies,Paper,Xerox 1988,61.96,2,0,27.882
 20-03-20,8998,CA-2017-122763,Same Day,HG-14845,Consumer,United States,Houston,Texas,77041,Central,OFF-PA-10000474,Office Supplies,Paper,Easy-staple paper,56.704,2,0.2,19.1376
@@ -530,7 +530,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 7/4/2020,233,US-2017-100930,Standard Class,CS-12400,Home Office,United States,Tampa,Florida,33614,South,FUR-TA-10003473,Furniture,Tables,Bretford Rectangular Conference Table Tops,620.6145,3,0.45,-248.2458
 7/4/2020,234,US-2017-100930,Standard Class,CS-12400,Home Office,United States,Tampa,Florida,33614,South,OFF-BI-10001679,Office Supplies,Binders,GBC Instant Index System for Binding Systems,5.328,2,0.7,-3.552
 7/4/2020,235,US-2017-100930,Standard Class,CS-12400,Home Office,United States,Tampa,Florida,33614,South,FUR-FU-10004017,Furniture,Furnishings,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",258.072,3,0.2,0
-7/4/2020,236,US-2017-100930,Standard Class,CS-12400,Home Office,United States,Tampa,Florida,33614,South,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,617.976,3,0.2,-7.7247
+7/4/2020,236,US-2017-100930,Standard Class,CS-12400,Home Office,United States,Tampa,Florida,33614,South,TEC-AC-10003832,Technology,Accessories,LogitechÂ P710e Mobile Speakerphone,617.976,3,0.2,-7.7247
 7/4/2020,9443,CA-2017-165904,Standard Class,HR-14770,Home Office,United States,Jacksonville,Florida,32216,South,OFF-AR-10003156,Office Supplies,Art,50 Colored Long Pencils,16.256,2,0.2,1.2192
 7/4/2020,9444,CA-2017-165904,Standard Class,HR-14770,Home Office,United States,Jacksonville,Florida,32216,South,TEC-PH-10000576,Technology,Phones,AT&T 1080 Corded phone,219.184,2,0.2,19.1786
 8/4/2020,2848,CA-2017-157854,Standard Class,DM-13345,Corporate,United States,Roswell,Georgia,30076,South,FUR-FU-10003832,Furniture,Furnishings,"Eldon Expressions Punched Metal & Wood Desk Accessories, Black & Cherry",56.28,6,0,15.7584
@@ -556,7 +556,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 10/4/2020,859,CA-2017-161984,Standard Class,SJ-20125,Home Office,United States,New Brunswick,New Jersey,8901,East,OFF-PA-10004569,Office Supplies,Paper,"Wirebound Message Books, Two 4 1/4"" x 5"" Forms per Page",7.61,1,0,3.5767
 10/4/2020,860,CA-2017-161984,Standard Class,SJ-20125,Home Office,United States,New Brunswick,New Jersey,8901,East,OFF-FA-10000624,Office Supplies,Fasteners,OIC Binder Clips,7.16,2,0,3.58
 10/4/2020,3503,CA-2017-125115,Same Day,RD-19930,Consumer,United States,Austin,Texas,78745,Central,OFF-PA-10004101,Office Supplies,Paper,Xerox 1894,10.368,2,0.2,3.6288
-10/4/2020,3504,CA-2017-125115,Same Day,RD-19930,Consumer,United States,Austin,Texas,78745,Central,TEC-AC-10001714,Technology,Accessories,Logitech MX Performance Wireless Mouse,95.736,3,0.2,20.3439
+10/4/2020,3504,CA-2017-125115,Same Day,RD-19930,Consumer,United States,Austin,Texas,78745,Central,TEC-AC-10001714,Technology,Accessories,LogitechÂ MX Performance Wireless Mouse,95.736,3,0.2,20.3439
 10/4/2020,5789,CA-2017-115070,Second Class,MG-18205,Corporate,United States,Jacksonville,Florida,32216,South,FUR-FU-10003829,Furniture,Furnishings,Stackable Trays,12.32,5,0.2,1.848
 10/4/2020,5790,CA-2017-115070,Second Class,MG-18205,Corporate,United States,Jacksonville,Florida,32216,South,OFF-BI-10003712,Office Supplies,Binders,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",4.419,3,0.7,-3.0933
 10/4/2020,6379,CA-2017-150623,Standard Class,DB-13360,Home Office,United States,Waterbury,Connecticut,6708,East,TEC-AC-10004571,Technology,Accessories,Logitech G700s Rechargeable Gaming Mouse,99.99,1,0,41.9958
@@ -632,7 +632,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 21-04-20,3713,CA-2017-166198,First Class,JW-15955,Consumer,United States,Seattle,Washington,98103,West,TEC-AC-10000521,Technology,Accessories,"Verbatim Slim CD and DVD Storage Cases, 50/Pack",11.54,1,0,3.462
 21-04-20,3714,CA-2017-166198,First Class,JW-15955,Consumer,United States,Seattle,Washington,98103,West,FUR-FU-10004622,Furniture,Furnishings,Eldon Advantage Foldable Chair Mats for Low Pile Carpets,162.6,3,0,34.146
 21-04-20,7184,CA-2017-128853,First Class,JM-15250,Consumer,United States,Baltimore,Maryland,21215,East,FUR-CH-10004218,Furniture,Chairs,"Global Fabric Manager's Chair, Dark Gray",908.82,9,0,227.205
-21-04-20,7567,CA-2017-140802,First Class,KN-16390,Corporate,United States,Houston,Texas,77070,Central,TEC-AC-10001998,Technology,Accessories,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,47.976,3,0.2,8.3958
+21-04-20,7567,CA-2017-140802,First Class,KN-16390,Corporate,United States,Houston,Texas,77070,Central,TEC-AC-10001998,Technology,Accessories,LogitechÂ LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,47.976,3,0.2,8.3958
 21-04-20,7568,CA-2017-140802,First Class,KN-16390,Corporate,United States,Houston,Texas,77070,Central,OFF-PA-10001534,Office Supplies,Paper,Xerox 230,20.736,4,0.2,7.2576
 22-04-20,805,CA-2017-135783,First Class,GM-14440,Consumer,United States,San Francisco,California,94122,West,FUR-FU-10000794,Furniture,Furnishings,"Eldon Stackable Tray, Side-Load, Legal, Smoke",18.28,2,0,6.2152
 22-04-20,3027,CA-2017-169054,Standard Class,MO-17800,Home Office,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-10001488,Furniture,Furnishings,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",254.352,3,0.2,0
@@ -651,7 +651,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 23-04-20,8472,US-2017-132031,Standard Class,PN-18775,Home Office,United States,Clarksville,Tennessee,37042,South,FUR-FU-10000193,Furniture,Furnishings,Tenex Chairmats For Use with Hard Floors,77.952,3,0.2,-11.6928
 23-04-20,8473,US-2017-132031,Standard Class,PN-18775,Home Office,United States,Clarksville,Tennessee,37042,South,OFF-LA-10000081,Office Supplies,Labels,Avery 496,3,1,0.2,1.05
 23-04-20,8592,CA-2017-101700,First Class,SO-20335,Consumer,United States,Greeley,Colorado,80634,West,OFF-EN-10003134,Office Supplies,Envelopes,Staple envelope,18.688,2,0.2,7.008
-23-04-20,8593,CA-2017-101700,First Class,SO-20335,Consumer,United States,Greeley,Colorado,80634,West,FUR-FU-10001025,Furniture,Furnishings,"Eldon Imàge Series Desk Accessories, Clear",11.664,3,0.2,3.3534
+23-04-20,8593,CA-2017-101700,First Class,SO-20335,Consumer,United States,Greeley,Colorado,80634,West,FUR-FU-10001025,Furniture,Furnishings,"Eldon ImÃ ge Series Desk Accessories, Clear",11.664,3,0.2,3.3534
 24-04-20,1685,CA-2017-149489,First Class,DK-12835,Corporate,United States,Philadelphia,Pennsylvania,19143,East,OFF-AP-10002495,Office Supplies,Appliances,"Acco Smartsocket Table Surge Protector, 6 Color-Coded Adapter Outlets",99.28,2,0.2,12.41
 24-04-20,1686,CA-2017-149489,First Class,DK-12835,Corporate,United States,Philadelphia,Pennsylvania,19143,East,OFF-BI-10002813,Office Supplies,Binders,Avery Reinforcements for Hole-Punch Pages,1.188,2,0.7,-0.99
 24-04-20,1687,CA-2017-149489,First Class,DK-12835,Corporate,United States,Philadelphia,Pennsylvania,19143,East,OFF-BI-10002414,Office Supplies,Binders,GBC ProClick Spines for 32-Hole Punch,7.518,2,0.7,-5.7638
@@ -709,10 +709,10 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 1/5/2020,9335,CA-2017-110198,First Class,AG-10900,Consumer,United States,Coral Springs,Florida,33065,South,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,314.352,3,0.2,-15.7176
 1/5/2020,9336,CA-2017-110198,First Class,AG-10900,Consumer,United States,Coral Springs,Florida,33065,South,OFF-LA-10004409,Office Supplies,Labels,Avery 492,4.608,2,0.2,1.4976
 2/5/2020,2518,CA-2017-123134,Standard Class,DW-13585,Corporate,United States,Westfield,New Jersey,7090,East,FUR-FU-10003975,Furniture,Furnishings,Eldon Advantage Chair Mats for Low to Medium Pile Carpets,129.93,3,0,12.993
-2/5/2020,6913,US-2017-128398,Second Class,EM-13825,Corporate,United States,Los Angeles,California,90049,West,TEC-AC-10001714,Technology,Accessories,Logitech MX Performance Wireless Mouse,159.56,4,0,59.0372
+2/5/2020,6913,US-2017-128398,Second Class,EM-13825,Corporate,United States,Los Angeles,California,90049,West,TEC-AC-10001714,Technology,Accessories,LogitechÂ MX Performance Wireless Mouse,159.56,4,0,59.0372
 2/5/2020,7393,CA-2017-147844,Standard Class,DD-13570,Consumer,United States,Los Angeles,California,90049,West,OFF-PA-10003016,Office Supplies,Paper,"Adams ""While You Were Out"" Message Pads",15.7,5,0,7.065
 2/5/2020,7394,CA-2017-147844,Standard Class,DD-13570,Consumer,United States,Los Angeles,California,90049,West,OFF-AR-10001615,Office Supplies,Art,Newell 34,59.52,3,0,15.4752
-2/5/2020,7395,CA-2017-147844,Standard Class,DD-13570,Consumer,United States,Los Angeles,California,90049,West,OFF-PA-10002713,Office Supplies,Paper,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",34.4,5,0,15.824
+2/5/2020,7395,CA-2017-147844,Standard Class,DD-13570,Consumer,United States,Los Angeles,California,90049,West,OFF-PA-10002713,Office Supplies,Paper,"Adams Phone Message Book, 200 Message Capacity, 8 1/16Â” x 11Â”",34.4,5,0,15.824
 3/5/2020,3632,CA-2017-132178,Second Class,DB-12970,Corporate,United States,Los Angeles,California,90004,West,OFF-ST-10000464,Office Supplies,Storage,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",69.52,2,0,19.4656
 3/5/2020,3633,CA-2017-132178,Second Class,DB-12970,Corporate,United States,Los Angeles,California,90004,West,OFF-ST-10000025,Office Supplies,Storage,Fellowes Stor/Drawer Steel Plus Storage Drawers,763.44,8,0,45.8064
 3/5/2020,7609,CA-2017-163209,Standard Class,MK-18160,Consumer,United States,San Francisco,California,94122,West,OFF-PA-10001166,Office Supplies,Paper,Xerox 2,25.92,4,0,12.4416
@@ -740,7 +740,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 5/5/2020,6264,CA-2017-160724,Standard Class,YS-21880,Corporate,United States,Columbus,Georgia,31907,South,OFF-BI-10004965,Office Supplies,Binders,Ibico Covers for Plastic or Wire Binding Elements,34.5,3,0,15.525
 5/5/2020,6305,CA-2017-107552,Same Day,AI-10855,Consumer,United States,New York City,New York,10035,East,OFF-PA-10002947,Office Supplies,Paper,Xerox 1923,6.68,1,0,3.2064
 6/5/2020,1971,CA-2017-140242,Standard Class,ML-17755,Home Office,United States,Chicago,Illinois,60623,Central,OFF-AR-10004752,Office Supplies,Art,Blackstonian Pencils,6.408,3,0.2,0.6408
-6/5/2020,1972,CA-2017-140242,Standard Class,ML-17755,Home Office,United States,Chicago,Illinois,60623,Central,TEC-AC-10004659,Technology,Accessories,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,408.744,7,0.2,76.6395
+6/5/2020,1972,CA-2017-140242,Standard Class,ML-17755,Home Office,United States,Chicago,Illinois,60623,Central,TEC-AC-10004659,Technology,Accessories,ImationÂ Secure+ Hardware Encrypted USB 2.0Â Flash Drive; 16GB,408.744,7,0.2,76.6395
 6/5/2020,2781,CA-2017-167668,First Class,TC-21295,Consumer,United States,New York City,New York,10035,East,OFF-LA-10004544,Office Supplies,Labels,Avery 505,59.2,4,0,29.6
 6/5/2020,4127,CA-2017-156769,First Class,GZ-14470,Consumer,United States,Arlington,Virginia,22204,South,OFF-AR-10003179,Office Supplies,Art,Dixon Ticonderoga Core-Lock Colored Pencils,54.66,6,0,18.0378
 6/5/2020,4669,US-2017-133200,Standard Class,DB-13555,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-BI-10002827,Office Supplies,Binders,Avery Durable Poly Binders,11.06,10,0.8,-18.802
@@ -757,7 +757,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 7/5/2020,3830,CA-2017-141733,Standard Class,RW-19540,Corporate,United States,Detroit,Michigan,48234,Central,FUR-CH-10000595,Furniture,Chairs,Safco Contoured Stacking Chairs,476.8,2,0,119.2
 7/5/2020,3831,CA-2017-141733,Standard Class,RW-19540,Corporate,United States,Detroit,Michigan,48234,Central,OFF-AP-10001563,Office Supplies,Appliances,Belkin Premiere Surge Master II 8-outlet surge protector,87.444,2,0.1,18.4604
 7/5/2020,5001,CA-2017-159688,Standard Class,AB-10060,Home Office,United States,Los Angeles,California,90004,West,TEC-AC-10000736,Technology,Accessories,Logitech G600 MMO Gaming Mouse,79.99,1,0,28.7964
-7/5/2020,9374,CA-2017-102820,Standard Class,CS-11950,Consumer,United States,Pasadena,California,91104,West,TEC-PH-10003437,Technology,Phones,Blue Parrot B250XT Professional Grade Wireless Bluetooth Headset with,419.944,7,0.2,52.493
+7/5/2020,9374,CA-2017-102820,Standard Class,CS-11950,Consumer,United States,Pasadena,California,91104,West,TEC-PH-10003437,Technology,Phones,Blue Parrot B250XT Professional Grade Wireless BluetoothÂ HeadsetÂ with,419.944,7,0.2,52.493
 8/5/2020,1596,CA-2017-149181,Standard Class,MD-17350,Consumer,United States,Columbus,Ohio,43229,East,FUR-CH-10004540,Furniture,Chairs,Global Chrome Stack Chair,47.992,2,0.3,-2.0568
 8/5/2020,3274,CA-2017-133865,Standard Class,PS-19045,Home Office,United States,Los Angeles,California,90032,West,TEC-CO-10001046,Technology,Copiers,Canon Imageclass D680 Copier / Fax,3359.952,6,0.2,1049.985
 8/5/2020,4471,CA-2017-156895,Standard Class,DJ-13510,Corporate,United States,Philadelphia,Pennsylvania,19140,East,FUR-CH-10003535,Furniture,Chairs,"Global Armless Task Chair, Royal Blue",128.058,3,0.3,-23.7822
@@ -770,7 +770,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 9/5/2020,8419,CA-2017-118199,First Class,LB-16795,Home Office,United States,Seattle,Washington,98105,West,FUR-TA-10004154,Furniture,Tables,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",286.85,1,0,63.107
 9/5/2020,8420,CA-2017-118199,First Class,LB-16795,Home Office,United States,Seattle,Washington,98105,West,OFF-ST-10000636,Office Supplies,Storage,Rogers Profile Extra Capacity Storage Tub,66.96,4,0,2.6784
 9/5/2020,8421,CA-2017-118199,First Class,LB-16795,Home Office,United States,Seattle,Washington,98105,West,TEC-AC-10004171,Technology,Accessories,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,199.98,2,0,87.9912
-11/5/2020,4122,CA-2017-133823,Same Day,LP-17080,Consumer,United States,Seattle,Washington,98103,West,OFF-PA-10002870,Office Supplies,Paper,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 ¾” x 11”",37.44,6,0,16.848
+11/5/2020,4122,CA-2017-133823,Same Day,LP-17080,Consumer,United States,Seattle,Washington,98103,West,OFF-PA-10002870,Office Supplies,Paper,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 Â¾Â” x 11Â”",37.44,6,0,16.848
 11/5/2020,4123,CA-2017-133823,Same Day,LP-17080,Consumer,United States,Seattle,Washington,98103,West,OFF-LA-10004545,Office Supplies,Labels,Avery 50,37.59,3,0,17.6673
 11/5/2020,4124,CA-2017-133823,Same Day,LP-17080,Consumer,United States,Seattle,Washington,98103,West,OFF-BI-10000962,Office Supplies,Binders,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",26.032,2,0.2,9.4366
 11/5/2020,4700,CA-2017-140298,Standard Class,JK-16120,Home Office,United States,Austin,Texas,78745,Central,OFF-AR-10003481,Office Supplies,Art,Newell 348,5.248,2,0.2,0.5904
@@ -822,7 +822,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 14-05-20,6545,US-2017-154872,Standard Class,DP-13000,Consumer,United States,Cleveland,Ohio,44105,East,OFF-BI-10003007,Office Supplies,Binders,"Premium Transparent Presentation Covers, No Pattern/Clear, 8 1/2"" x 11""",58.17,5,0.7,-46.536
 14-05-20,6546,US-2017-154872,Standard Class,DP-13000,Consumer,United States,Cleveland,Ohio,44105,East,OFF-LA-10000973,Office Supplies,Labels,Avery 502,5.04,2,0.2,1.764
 14-05-20,6547,US-2017-154872,Standard Class,DP-13000,Consumer,United States,Cleveland,Ohio,44105,East,OFF-PA-10000483,Office Supplies,Paper,Xerox 19,24.784,1,0.2,7.745
-15-05-20,957,CA-2017-102414,Second Class,JA-15970,Consumer,United States,Phoenix,Arizona,85023,West,TEC-PH-10002923,Technology,Phones,"Logitech B530 USB Headset - headset - Full size, Binaural",29.592,1,0.2,2.5893
+15-05-20,957,CA-2017-102414,Second Class,JA-15970,Consumer,United States,Phoenix,Arizona,85023,West,TEC-PH-10002923,Technology,Phones,"Logitech B530 USBÂ HeadsetÂ -Â headsetÂ - Full size, Binaural",29.592,1,0.2,2.5893
 15-05-20,958,CA-2017-102414,Second Class,JA-15970,Consumer,United States,Phoenix,Arizona,85023,West,OFF-BI-10004465,Office Supplies,Binders,Avery Durable Slant Ring Binders,4.752,2,0.7,-3.168
 15-05-20,959,CA-2017-102414,Second Class,JA-15970,Consumer,United States,Phoenix,Arizona,85023,West,OFF-PA-10002333,Office Supplies,Paper,"Universal Ultra Bright White Copier/Laser Paper, 8 1/2"" x 11"", Ream",15.552,3,0.2,5.6376
 15-05-20,2632,US-2017-110604,Standard Class,JF-15295,Consumer,United States,Seattle,Washington,98103,West,FUR-FU-10000076,Furniture,Furnishings,24-Hour Round Wall Clock,39.96,2,0,17.1828
@@ -831,7 +831,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 15-05-20,5510,US-2017-152569,Standard Class,JD-16015,Consumer,United States,Chicago,Illinois,60653,Central,OFF-PA-10001736,Office Supplies,Paper,Xerox 1880,56.704,2,0.2,19.1376
 15-05-20,5511,US-2017-152569,Standard Class,JD-16015,Consumer,United States,Chicago,Illinois,60653,Central,TEC-PH-10002185,Technology,Phones,QVS USB Car Charger 2-Port 2.1Amp for iPod/iPhone/iPad/iPad 2/iPad 3,11.12,2,0.2,3.475
 16-05-20,4093,CA-2017-166576,First Class,JM-15865,Consumer,United States,Akron,Ohio,44312,East,OFF-ST-10002574,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, Black",221.024,2,0.2,-55.256
-18-05-20,2844,CA-2017-112865,Standard Class,BH-11710,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-AC-10000387,Technology,Accessories,KeyTronic KT800P2 - Keyboard - Black,36.048,3,0.2,-0.9012
+18-05-20,2844,CA-2017-112865,Standard Class,BH-11710,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-AC-10000387,Technology,Accessories,KeyTronicÂ KT800P2 -Â KeyboardÂ - Black,36.048,3,0.2,-0.9012
 18-05-20,3941,CA-2017-117863,Standard Class,TS-21340,Consumer,United States,New York City,New York,10024,East,FUR-FU-10002456,Furniture,Furnishings,"Master Caster Door Stop, Large Neon Orange",14.56,2,0,6.2608
 18-05-20,3942,CA-2017-117863,Standard Class,TS-21340,Consumer,United States,New York City,New York,10024,East,OFF-BI-10000605,Office Supplies,Binders,"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",3.048,1,0.2,1.0287
 18-05-20,4187,CA-2017-112536,Standard Class,SG-20890,Corporate,United States,Mcallen,Texas,78501,Central,OFF-BI-10003712,Office Supplies,Binders,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",6.874,7,0.8,-10.6547
@@ -862,7 +862,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 19-05-20,3628,CA-2017-113530,Second Class,BC-11125,Home Office,United States,San Francisco,California,94109,West,TEC-AC-10001465,Technology,Accessories,SanDisk Cruzer 64 GB USB Flash Drive,36.32,1,0,10.896
 19-05-20,5053,US-2017-120607,Same Day,JC-15775,Consumer,United States,Atlanta,Georgia,30318,South,OFF-PA-10003129,Office Supplies,Paper,Tops White Computer Printout Paper,195.64,4,0,91.9508
 19-05-20,5454,US-2017-108700,Standard Class,PJ-18835,Corporate,United States,Rockford,Illinois,61107,Central,OFF-PA-10004733,Office Supplies,Paper,Things To Do Today Spiral Book,38.016,6,0.2,13.7808
-19-05-20,5939,CA-2017-122077,Standard Class,JF-15295,Consumer,United States,Plano,Texas,75023,Central,TEC-PH-10003811,Technology,Phones,Jabra Supreme Plus Driver Edition Headset,95.992,1,0.2,9.5992
+19-05-20,5939,CA-2017-122077,Standard Class,JF-15295,Consumer,United States,Plano,Texas,75023,Central,TEC-PH-10003811,Technology,Phones,Jabra Supreme Plus Driver EditionÂ Headset,95.992,1,0.2,9.5992
 19-05-20,5940,CA-2017-122077,Standard Class,JF-15295,Consumer,United States,Plano,Texas,75023,Central,OFF-LA-10004178,Office Supplies,Labels,Avery 491,13.216,4,0.2,4.2952
 19-05-20,6044,CA-2017-145702,Second Class,AH-10075,Corporate,United States,Knoxville,Tennessee,37918,South,FUR-CH-10001482,Furniture,Chairs,Office Star - Mesh Screen back chair with Vinyl seat,314.352,3,0.2,-35.3646
 19-05-20,6045,CA-2017-145702,Second Class,AH-10075,Corporate,United States,Knoxville,Tennessee,37918,South,OFF-PA-10001526,Office Supplies,Paper,Xerox 1949,27.888,7,0.2,10.1094
@@ -896,7 +896,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 23-05-20,4875,CA-2017-164042,Standard Class,KL-16645,Consumer,United States,Houston,Texas,77095,Central,OFF-BI-10001922,Office Supplies,Binders,Storex Dura Pro Binders,1.188,1,0.8,-1.9602
 25-05-20,6671,CA-2017-161088,Standard Class,MH-18115,Home Office,United States,Columbus,Georgia,31907,South,OFF-BI-10002824,Office Supplies,Binders,Recycled Easel Ring Binders,29.84,2,0,13.428
 25-05-20,8013,CA-2017-120168,Same Day,TB-21625,Consumer,United States,New York City,New York,10009,East,OFF-BI-10004519,Office Supplies,Binders,GBC DocuBind P100 Manual Binding Machine,663.92,5,0.2,207.475
-25-05-20,8014,CA-2017-120168,Same Day,TB-21625,Consumer,United States,New York City,New York,10009,East,TEC-AC-10002167,Technology,Accessories,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,120,8,0,13.2
+25-05-20,8014,CA-2017-120168,Same Day,TB-21625,Consumer,United States,New York City,New York,10009,East,TEC-AC-10002167,Technology,Accessories,ImationÂ 8gb Micro Traveldrive Usb 2.0Â Flash Drive,120,8,0,13.2
 25-05-20,8015,CA-2017-120168,Same Day,TB-21625,Consumer,United States,New York City,New York,10009,East,OFF-FA-10000936,Office Supplies,Fasteners,Acco Hot Clips Clips to Go,3.29,1,0,1.4805
 25-05-20,8016,CA-2017-120168,Same Day,TB-21625,Consumer,United States,New York City,New York,10009,East,FUR-FU-10000732,Furniture,Furnishings,Eldon 200 Class Desk Accessories,18.84,3,0,6.0288
 25-05-20,9128,CA-2017-112473,Standard Class,JL-15505,Consumer,United States,Houston,Texas,77070,Central,OFF-ST-10002182,Office Supplies,Storage,"Iris 3-Drawer Stacking Bin, Black",50.136,3,0.2,-11.2806
@@ -922,7 +922,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 28-05-20,8458,US-2017-118556,Second Class,TH-21235,Corporate,United States,Chicago,Illinois,60653,Central,OFF-BI-10004364,Office Supplies,Binders,Storex Dura Pro Binders,3.564,3,0.8,-6.237
 28-05-20,8786,CA-2017-145765,Standard Class,CM-11815,Corporate,United States,Phoenix,Arizona,85023,West,TEC-PH-10001305,Technology,Phones,Panasonic KX TS208W Corded phone,195.96,5,0.2,19.596
 28-05-20,8787,CA-2017-145765,Standard Class,CM-11815,Corporate,United States,Phoenix,Arizona,85023,West,OFF-PA-10001534,Office Supplies,Paper,Xerox 230,15.552,3,0.2,5.4432
-28-05-20,8788,CA-2017-145765,Standard Class,CM-11815,Corporate,United States,Phoenix,Arizona,85023,West,TEC-AC-10000844,Technology,Accessories,Logitech Gaming G510s - Keyboard,271.968,4,0.2,54.3936
+28-05-20,8788,CA-2017-145765,Standard Class,CM-11815,Corporate,United States,Phoenix,Arizona,85023,West,TEC-AC-10000844,Technology,Accessories,LogitechÂ Gaming G510s - Keyboard,271.968,4,0.2,54.3936
 28-05-20,9132,CA-2017-100055,Standard Class,MD-17860,Corporate,United States,Laurel,Maryland,20707,East,FUR-FU-10001473,Furniture,Furnishings,DAX Wood Document Frame,27.46,2,0,9.8856
 28-05-20,9133,CA-2017-100055,Standard Class,MD-17860,Corporate,United States,Laurel,Maryland,20707,East,OFF-AP-10001469,Office Supplies,Appliances,Fellowes 8 Outlet Superior Workstation Surge Protector,125.13,3,0,36.2877
 28-05-20,9295,CA-2017-161340,Standard Class,AM-10360,Corporate,United States,Cleveland,Ohio,44105,East,OFF-PA-10002464,Office Supplies,Paper,HP Office Recycled Paper (20Lb. and 87 Bright),13.872,3,0.2,5.0286
@@ -952,8 +952,8 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 1/6/2020,7801,CA-2017-157413,Standard Class,BW-11065,Consumer,United States,Philadelphia,Pennsylvania,19120,East,OFF-ST-10002756,Office Supplies,Storage,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",324.744,3,0.2,-77.1267
 1/6/2020,9948,CA-2017-121559,Second Class,HW-14935,Corporate,United States,Indianapolis,Indiana,46203,Central,FUR-CH-10003746,Furniture,Chairs,Hon 4070 Series Pagoda Round Back Stacking Chairs,1925.88,6,0,539.2464
 1/6/2020,9949,CA-2017-121559,Second Class,HW-14935,Corporate,United States,Indianapolis,Indiana,46203,Central,OFF-AP-10002945,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,2405.2,8,0,793.716
-1/6/2020,9950,CA-2017-121559,Second Class,HW-14935,Corporate,United States,Indianapolis,Indiana,46203,Central,TEC-AC-10004568,Technology,Accessories,Maxell LTO Ultrium - 800 GB,83.97,3,0,15.9543
-1/6/2020,9951,CA-2017-121559,Second Class,HW-14935,Corporate,United States,Indianapolis,Indiana,46203,Central,TEC-AC-10001714,Technology,Accessories,Logitech MX Performance Wireless Mouse,39.89,1,0,14.7593
+1/6/2020,9950,CA-2017-121559,Second Class,HW-14935,Corporate,United States,Indianapolis,Indiana,46203,Central,TEC-AC-10004568,Technology,Accessories,MaxellÂ LTO Ultrium - 800 GB,83.97,3,0,15.9543
+1/6/2020,9951,CA-2017-121559,Second Class,HW-14935,Corporate,United States,Indianapolis,Indiana,46203,Central,TEC-AC-10001714,Technology,Accessories,LogitechÂ MX Performance Wireless Mouse,39.89,1,0,14.7593
 1/6/2020,9952,CA-2017-121559,Second Class,HW-14935,Corporate,United States,Indianapolis,Indiana,46203,Central,OFF-BI-10002072,Office Supplies,Binders,Cardinal Slant-D Ring Binders,17.38,2,0,8.69
 2/6/2020,1331,CA-2017-127705,Standard Class,AB-10255,Home Office,United States,Lorain,Ohio,44052,East,TEC-PH-10000347,Technology,Phones,Cush Cases Heavy Duty Rugged Cover Case for Samsung Galaxy S5 - Purple,2.97,1,0.4,-0.6435
 2/6/2020,1332,CA-2017-127705,Standard Class,AB-10255,Home Office,United States,Lorain,Ohio,44052,East,OFF-ST-10004507,Office Supplies,Storage,Advantus Rolling Storage Box,27.44,2,0.2,2.401
@@ -968,7 +968,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 3/6/2020,6127,CA-2017-145772,Standard Class,SS-20140,Corporate,United States,Los Angeles,California,90036,West,OFF-BI-10002049,Office Supplies,Binders,UniKeep View Case Binders,3.912,1,0.2,1.2714
 3/6/2020,6476,CA-2017-140872,Standard Class,NR-18550,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-BI-10002432,Office Supplies,Binders,Wilson Jones Standard D-Ring Binders,4.554,3,0.7,-3.4914
 3/6/2020,6477,CA-2017-140872,Standard Class,NR-18550,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-AP-10003622,Office Supplies,Appliances,"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",5.2,2,0.2,0.585
-3/6/2020,6478,CA-2017-140872,Standard Class,NR-18550,Consumer,United States,Pembroke Pines,Florida,33024,South,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,205.992,1,0.2,-2.5749
+3/6/2020,6478,CA-2017-140872,Standard Class,NR-18550,Consumer,United States,Pembroke Pines,Florida,33024,South,TEC-AC-10003832,Technology,Accessories,LogitechÂ P710e Mobile Speakerphone,205.992,1,0.2,-2.5749
 3/6/2020,6479,CA-2017-140872,Standard Class,NR-18550,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-PA-10000809,Office Supplies,Paper,Xerox 206,15.552,3,0.2,5.4432
 3/6/2020,6480,CA-2017-140872,Standard Class,NR-18550,Consumer,United States,Pembroke Pines,Florida,33024,South,TEC-PH-10000441,Technology,Phones,VTech DS6151,503.96,5,0.2,50.396
 3/6/2020,6481,CA-2017-140872,Standard Class,NR-18550,Consumer,United States,Pembroke Pines,Florida,33024,South,OFF-AP-10002287,Office Supplies,Appliances,"Eureka Sanitaire  Multi-Pro Heavy-Duty Upright, Disposable Bags",24.472,7,0.2,1.8354
@@ -980,7 +980,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 3/6/2020,9451,CA-2017-145506,Standard Class,MO-17800,Home Office,United States,Spokane,Washington,99207,West,OFF-ST-10004963,Office Supplies,Storage,Eldon Gobal File Keepers,136.26,9,0,5.4504
 4/6/2020,1090,CA-2017-158407,Standard Class,LW-16990,Corporate,United States,Monroe,North Carolina,28110,South,FUR-FU-10001967,Furniture,Furnishings,Telescoping Adjustable Floor Lamp,31.984,2,0.2,1.999
 4/6/2020,1091,CA-2017-158407,Standard Class,LW-16990,Corporate,United States,Monroe,North Carolina,28110,South,TEC-PH-10001819,Technology,Phones,Innergie mMini Combo Duo USB Travel Charging Kit,71.984,2,0.2,25.1944
-4/6/2020,1270,CA-2017-100426,Standard Class,DC-12850,Consumer,United States,Florence,Alabama,35630,South,OFF-PA-10002870,Office Supplies,Paper,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 ¾” x 11”",12.48,2,0,5.616
+4/6/2020,1270,CA-2017-100426,Standard Class,DC-12850,Consumer,United States,Florence,Alabama,35630,South,OFF-PA-10002870,Office Supplies,Paper,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 Â¾Â” x 11Â”",12.48,2,0,5.616
 4/6/2020,2928,CA-2017-158106,Standard Class,CT-11995,Consumer,United States,Apple Valley,Minnesota,55124,Central,OFF-AR-10002255,Office Supplies,Art,Newell 346,8.64,3,0,2.5056
 4/6/2020,3193,CA-2017-158953,Standard Class,ML-18040,Corporate,United States,Missouri City,Texas,77489,Central,OFF-BI-10002557,Office Supplies,Binders,Presstex Flexible Ring Binders,6.37,7,0.8,-9.555
 4/6/2020,5874,CA-2017-133095,Same Day,EH-14005,Home Office,United States,Jonesboro,Arkansas,72401,South,OFF-BI-10002353,Office Supplies,Binders,GBC VeloBind Cover Sets,108.08,7,0,54.04
@@ -993,7 +993,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 8/6/2020,262,US-2017-155299,Standard Class,Dl-13600,Corporate,United States,Pasadena,Texas,77506,Central,OFF-AP-10002203,Office Supplies,Appliances,Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac,1.624,2,0.8,-4.466
 8/6/2020,666,CA-2017-132682,Second Class,TH-21235,Corporate,United States,Dallas,Texas,75081,Central,OFF-SU-10004231,Office Supplies,Supplies,Acme Tagit Stainless Steel Antibacterial Scissors,23.76,3,0.2,2.079
 8/6/2020,667,CA-2017-132682,Second Class,TH-21235,Corporate,United States,Dallas,Texas,75081,Central,OFF-PA-10000474,Office Supplies,Paper,Easy-staple paper,85.056,3,0.2,28.7064
-8/6/2020,668,CA-2017-132682,Second Class,TH-21235,Corporate,United States,Dallas,Texas,75081,Central,TEC-PH-10004042,Technology,Phones,ClearOne Communications CHAT 70 OC Speaker Phone,381.576,3,0.2,28.6182
+8/6/2020,668,CA-2017-132682,Second Class,TH-21235,Corporate,United States,Dallas,Texas,75081,Central,TEC-PH-10004042,Technology,Phones,ClearOne Communications CHAT 70 OCÂ Speaker Phone,381.576,3,0.2,28.6182
 8/6/2020,4820,CA-2017-117436,Standard Class,LW-17125,Consumer,United States,Norwich,Connecticut,6360,East,OFF-BI-10004040,Office Supplies,Binders,Wilson Jones Impact Binders,10.36,2,0,5.0764
 8/6/2020,7506,US-2017-106579,Standard Class,BW-11200,Consumer,United States,Skokie,Illinois,60076,Central,OFF-BI-10000309,Office Supplies,Binders,"GBC Twin Loop Wire Binding Elements, 9/16"" Spine, Black",12.176,4,0.8,-18.8728
 8/6/2020,7815,US-2017-109316,First Class,MG-17680,Home Office,United States,Los Angeles,California,90049,West,FUR-BO-10004834,Furniture,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",1497.666,2,0.15,140.9568
@@ -1009,12 +1009,12 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 10/6/2020,485,CA-2017-140963,First Class,MT-18070,Home Office,United States,Los Angeles,California,90045,West,OFF-LA-10003923,Office Supplies,Labels,Alphabetical Labels for Top Tab Filing,29.6,2,0,14.8
 10/6/2020,486,CA-2017-140963,First Class,MT-18070,Home Office,United States,Los Angeles,California,90045,West,FUR-BO-10001337,Furniture,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,514.165,5,0.15,-30.245
 10/6/2020,487,CA-2017-140963,First Class,MT-18070,Home Office,United States,Los Angeles,California,90045,West,TEC-PH-10001924,Technology,Phones,iHome FM Clock Radio with Lightning Dock,279.96,5,0.2,17.4975
-10/6/2020,644,CA-2017-106103,Standard Class,SC-20305,Consumer,United States,Rochester Hills,Michigan,48307,Central,TEC-AC-10003832,Technology,Accessories,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,132.52,4,0,54.3332
+10/6/2020,644,CA-2017-106103,Standard Class,SC-20305,Consumer,United States,Rochester Hills,Michigan,48307,Central,TEC-AC-10003832,Technology,Accessories,ImationÂ 16GB Mini TravelDrive USB 2.0Â Flash Drive,132.52,4,0,54.3332
 10/6/2020,2289,CA-2017-143343,First Class,BW-11200,Consumer,United States,Los Angeles,California,90032,West,OFF-AR-10002375,Office Supplies,Art,Newell 351,16.4,5,0,4.756
 10/6/2020,3395,US-2017-131583,Same Day,CL-11890,Consumer,United States,Philadelphia,Pennsylvania,19143,East,OFF-PA-10000380,Office Supplies,Paper,"REDIFORM Incoming/Outgoing Call Register, 11"" X 8 1/2"", 100 Messages",40.032,6,0.2,15.012
 10/6/2020,4520,CA-2017-107167,Standard Class,ND-18460,Corporate,United States,Jacksonville,Florida,32216,South,OFF-ST-10003805,Office Supplies,Storage,"24 Capacity Maxi Data Binder Racks, Pearl",1347.52,8,0.2,84.22
 10/6/2020,5219,CA-2017-167080,Standard Class,LC-16930,Corporate,United States,New York City,New York,10011,East,OFF-AR-10001868,Office Supplies,Art,Prang Dustless Chalk Sticks,8.4,5,0,4.2
-10/6/2020,5367,CA-2017-158071,Standard Class,BD-11320,Consumer,United States,Seattle,Washington,98103,West,TEC-PH-10002923,Technology,Phones,"Logitech B530 USB Headset - headset - Full size, Binaural",88.776,3,0.2,7.7679
+10/6/2020,5367,CA-2017-158071,Standard Class,BD-11320,Consumer,United States,Seattle,Washington,98103,West,TEC-PH-10002923,Technology,Phones,"Logitech B530 USBÂ HeadsetÂ -Â headsetÂ - Full size, Binaural",88.776,3,0.2,7.7679
 10/6/2020,5368,CA-2017-158071,Standard Class,BD-11320,Consumer,United States,Seattle,Washington,98103,West,OFF-LA-10004689,Office Supplies,Labels,Avery 512,11.56,4,0,5.4332
 10/6/2020,5369,CA-2017-158071,Standard Class,BD-11320,Consumer,United States,Seattle,Washington,98103,West,OFF-ST-10001228,Office Supplies,Storage,Personal File Boxes with Fold-Down Carry Handle,15.58,1,0,3.895
 10/6/2020,7262,CA-2017-137001,Second Class,GZ-14545,Corporate,United States,Thousand Oaks,California,91360,West,OFF-AR-10001231,Office Supplies,Art,"Sanford EarthWrite Recycled Pencils, Medium Soft, #2",14.7,7,0,4.116
@@ -1162,7 +1162,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 27-06-20,6145,CA-2017-151190,Standard Class,GT-14710,Consumer,United States,Omaha,Nebraska,68104,Central,OFF-PA-10000575,Office Supplies,Paper,"Wirebound Message Books, Four 2 3/4 x 5 White Forms per Page",20.07,3,0,9.2322
 27-06-20,8733,CA-2017-116988,Second Class,PW-19030,Corporate,United States,Seattle,Washington,98105,West,OFF-PA-10003848,Office Supplies,Paper,Xerox 1997,19.44,3,0,9.3312
 27-06-20,8734,CA-2017-116988,Second Class,PW-19030,Corporate,United States,Seattle,Washington,98105,West,FUR-FU-10001290,Furniture,Furnishings,Executive Impressions Supervisor Wall Clock,126.3,3,0,40.416
-27-06-20,8735,CA-2017-116988,Second Class,PW-19030,Corporate,United States,Seattle,Washington,98105,West,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,1287.45,5,0,244.6155
+27-06-20,8735,CA-2017-116988,Second Class,PW-19030,Corporate,United States,Seattle,Washington,98105,West,TEC-AC-10003832,Technology,Accessories,LogitechÂ P710e Mobile Speakerphone,1287.45,5,0,244.6155
 29-06-20,555,CA-2017-100650,Second Class,DK-13225,Corporate,United States,Anaheim,California,92804,West,OFF-ST-10001780,Office Supplies,Storage,Tennsco 16-Compartment Lockers with Coat Rack,1295.78,2,0,310.9872
 29-06-20,1160,CA-2017-147039,Standard Class,AA-10315,Consumer,United States,Minneapolis,Minnesota,55407,Central,OFF-AP-10000576,Office Supplies,Appliances,"Belkin 325VA UPS Surge Protector, 6'",362.94,3,0,90.735
 29-06-20,1161,CA-2017-147039,Standard Class,AA-10315,Consumer,United States,Minneapolis,Minnesota,55407,Central,OFF-BI-10004654,Office Supplies,Binders,Avery Binding System Hidden Tab Executive Style Index Sets,11.54,2,0,5.77
@@ -1212,7 +1212,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 3/7/2020,3664,US-2017-129777,Standard Class,FM-14290,Home Office,United States,Quincy,Massachusetts,2169,East,OFF-PA-10001970,Office Supplies,Paper,Xerox 1881,24.56,2,0,11.5432
 3/7/2020,4296,CA-2017-169124,Standard Class,MB-17305,Consumer,United States,Citrus Heights,California,95610,West,FUR-FU-10001215,Furniture,Furnishings,"Howard Miller 11-1/2"" Diameter Brentwood Wall Clock",129.39,3,0,54.3438
 3/7/2020,6153,CA-2017-139437,Standard Class,RD-19585,Consumer,United States,Los Angeles,California,90004,West,OFF-ST-10002485,Office Supplies,Storage,Rogers Deluxe File Chest,87.92,4,0,0.8792
-3/7/2020,7870,US-2017-166233,Standard Class,MO-17950,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-AC-10002167,Technology,Accessories,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,24,2,0.2,-2.7
+3/7/2020,7870,US-2017-166233,Standard Class,MO-17950,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-AC-10002167,Technology,Accessories,ImationÂ 8gb Micro Traveldrive Usb 2.0Â Flash Drive,24,2,0.2,-2.7
 3/7/2020,8577,CA-2017-106747,First Class,TS-21505,Consumer,United States,Concord,New Hampshire,3301,East,FUR-FU-10004188,Furniture,Furnishings,Luxo Professional Combination Clamp-On Lamps,102.3,1,0,26.598
 5/7/2020,4230,CA-2017-100223,Standard Class,LS-16945,Corporate,United States,Dallas,Texas,75220,Central,FUR-FU-10003601,Furniture,Furnishings,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",332.028,9,0.6,-348.6294
 5/7/2020,4231,CA-2017-100223,Standard Class,LS-16945,Corporate,United States,Dallas,Texas,75220,Central,OFF-BI-10003429,Office Supplies,Binders,"Cardinal HOLDit! Binder Insert Strips,Extra Strips",11.394,9,0.8,-17.6607
@@ -1267,7 +1267,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 11/7/2020,1473,CA-2017-164959,Standard Class,KN-16390,Corporate,United States,Los Angeles,California,90004,West,OFF-LA-10004272,Office Supplies,Labels,Avery 482,8.67,3,0,4.0749
 11/7/2020,2705,CA-2017-156818,Second Class,JD-16015,Consumer,United States,New York City,New York,10009,East,TEC-AC-10002323,Technology,Accessories,SanDisk Ultra 32 GB MicroSDHC Class 10 Memory Card,132.6,6,0,17.238
 11/7/2020,6231,CA-2017-127656,Standard Class,NW-18400,Consumer,United States,Waterloo,Iowa,50701,Central,OFF-AR-10001166,Office Supplies,Art,Staples in misc. colors,30.32,4,0,11.8248
-11/7/2020,8587,CA-2017-162015,Standard Class,KB-16240,Corporate,United States,Los Angeles,California,90049,West,TEC-AC-10003832,Technology,Accessories,Logitech P710e Mobile Speakerphone,1287.45,5,0,244.6155
+11/7/2020,8587,CA-2017-162015,Standard Class,KB-16240,Corporate,United States,Los Angeles,California,90049,West,TEC-AC-10003832,Technology,Accessories,LogitechÂ P710e Mobile Speakerphone,1287.45,5,0,244.6155
 11/7/2020,8588,CA-2017-162015,Standard Class,KB-16240,Corporate,United States,Los Angeles,California,90049,West,OFF-AP-10003040,Office Supplies,Appliances,Fellowes 8 Outlet Superior Workstation Surge Protector w/o Phone/Fax/Modem Protection,168.1,5,0,43.706
 11/7/2020,8714,CA-2017-136623,Standard Class,TS-21430,Corporate,United States,San Diego,California,92105,West,TEC-PH-10000004,Technology,Phones,Belkin iPhone and iPad Lightning Cable,71.952,6,0.2,5.3964
 11/7/2020,8715,CA-2017-136623,Standard Class,TS-21430,Corporate,United States,San Diego,California,92105,West,OFF-BI-10003708,Office Supplies,Binders,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",29.8,5,0.2,9.3125
@@ -1360,7 +1360,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 23-07-20,4373,US-2017-169320,Second Class,LH-16900,Consumer,United States,Elkhart,Indiana,46514,Central,OFF-AR-10003602,Office Supplies,Art,"Quartet Omega Colored Chalk, 12/Pack",11.68,2,0,5.4896
 23-07-20,4374,US-2017-169320,Second Class,LH-16900,Consumer,United States,Elkhart,Indiana,46514,Central,TEC-AC-10002550,Technology,Accessories,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 30/Pack",159.75,5,0,11.1825
 23-07-20,6262,CA-2017-103506,Standard Class,LR-17035,Corporate,United States,Long Beach,New York,11561,East,OFF-LA-10001158,Office Supplies,Labels,"Avery Address/Shipping Labels for Typewriters, 4"" x 2""",41.4,4,0,19.872
-23-07-20,7894,CA-2017-125367,Standard Class,NM-18445,Home Office,United States,New York City,New York,10011,East,OFF-BI-10002412,Office Supplies,Binders,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,13.92,3,0.2,4.35
+23-07-20,7894,CA-2017-125367,Standard Class,NM-18445,Home Office,United States,New York City,New York,10011,East,OFF-BI-10002412,Office Supplies,Binders,Wilson Jones Â“SnapÂ” Scratch Pad Binder Tool for Ring Binders,13.92,3,0.2,4.35
 23-07-20,8185,US-2017-101721,Standard Class,MY-17380,Corporate,United States,Chicago,Illinois,60623,Central,OFF-PA-10003641,Office Supplies,Paper,Xerox 1909,63.312,3,0.2,20.5764
 23-07-20,8639,CA-2017-118346,First Class,PO-19180,Home Office,United States,Kenosha,Wisconsin,53142,Central,TEC-AC-10000736,Technology,Accessories,Logitech G600 MMO Gaming Mouse,399.95,5,0,143.982
 23-07-20,9230,CA-2017-133718,First Class,TB-21520,Consumer,United States,Los Angeles,California,90045,West,OFF-BI-10003429,Office Supplies,Binders,"Cardinal HOLDit! Binder Insert Strips,Extra Strips",15.192,3,0.2,5.5071
@@ -1375,7 +1375,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 25-07-20,6786,CA-2017-121293,Second Class,JC-15775,Consumer,United States,Philadelphia,Pennsylvania,19143,East,OFF-ST-10000060,Office Supplies,Storage,Fellowes Bankers Box Staxonsteel Drawer File/Stacking System,259.92,5,0.2,-25.992
 25-07-20,6787,CA-2017-121293,Second Class,JC-15775,Consumer,United States,Philadelphia,Pennsylvania,19143,East,OFF-PA-10004100,Office Supplies,Paper,Xerox 216,20.736,4,0.2,7.2576
 25-07-20,7930,CA-2017-167549,First Class,EM-14200,Home Office,United States,Dallas,Texas,75217,Central,FUR-TA-10004767,Furniture,Tables,Safco Drafting Table,298.116,6,0.3,-4.2588
-26-07-20,8302,US-2017-167318,Standard Class,GZ-14545,Corporate,United States,Los Angeles,California,90036,West,TEC-AC-10003870,Technology,Accessories,Logitech Z-906 Speaker sys - home theater - 5.1-CH,1649.95,5,0,659.98
+26-07-20,8302,US-2017-167318,Standard Class,GZ-14545,Corporate,United States,Los Angeles,California,90036,West,TEC-AC-10003870,Technology,Accessories,LogitechÂ Z-906 Speaker sys - home theater - 5.1-CH,1649.95,5,0,659.98
 26-07-20,8303,US-2017-167318,Standard Class,GZ-14545,Corporate,United States,Los Angeles,California,90036,West,FUR-CH-10000665,Furniture,Chairs,"Global Airflow Leather Mesh Back Chair, Black",362.352,3,0.2,45.294
 27-07-20,4126,CA-2017-123239,Second Class,MG-18145,Consumer,United States,Jacksonville,Florida,32216,South,FUR-FU-10001602,Furniture,Furnishings,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",91.032,3,0.2,-2.2758
 27-07-20,5297,CA-2017-108791,Standard Class,TM-21490,Consumer,United States,Yonkers,New York,10701,East,FUR-FU-10004018,Furniture,Furnishings,Tensor Computer Mounted Lamp,14.89,1,0,4.0203
@@ -1391,7 +1391,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 29-07-20,1735,CA-2017-101483,Second Class,AG-10675,Consumer,United States,Jacksonville,North Carolina,28540,South,OFF-AP-10002082,Office Supplies,Appliances,Holmes HEPA Air Purifier,34.848,2,0.2,6.534
 29-07-20,1736,CA-2017-101483,Second Class,AG-10675,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-PH-10003442,Technology,Phones,Samsung Replacement EH64AVFWE Premium Headset,22,5,0.2,1.375
 29-07-20,1737,CA-2017-101483,Second Class,AG-10675,Consumer,United States,Jacksonville,North Carolina,28540,South,OFF-AR-10002833,Office Supplies,Art,Newell 322,4.368,3,0.2,0.3822
-29-07-20,1845,US-2017-113852,Standard Class,GW-14605,Consumer,United States,Seattle,Washington,98115,West,TEC-AC-10003027,Technology,Accessories,Imation 8GB Mini TravelDrive USB 2.0 Flash Drive,90.57,3,0,11.7741
+29-07-20,1845,US-2017-113852,Standard Class,GW-14605,Consumer,United States,Seattle,Washington,98115,West,TEC-AC-10003027,Technology,Accessories,ImationÂ 8GB Mini TravelDrive USB 2.0Â Flash Drive,90.57,3,0,11.7741
 29-07-20,2227,CA-2017-130771,Standard Class,LA-16780,Corporate,United States,Austin,Texas,78745,Central,OFF-FA-10003059,Office Supplies,Fasteners,Assorted Color Push Pins,2.896,2,0.2,0.4706
 29-07-20,2228,CA-2017-130771,Standard Class,LA-16780,Corporate,United States,Austin,Texas,78745,Central,TEC-PH-10002496,Technology,Phones,Cisco SPA301,124.792,1,0.2,15.599
 29-07-20,2713,CA-2017-146031,Second Class,GM-14440,Consumer,United States,Troy,New York,12180,East,OFF-AR-10002656,Office Supplies,Art,Sanford Liquid Accent Highlighters,60.12,9,0,22.2444
@@ -1431,10 +1431,10 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 4/8/2020,5090,CA-2017-132738,First Class,HM-14860,Corporate,United States,Loveland,Colorado,80538,West,OFF-PA-10001752,Office Supplies,Paper,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),7.968,2,0.2,2.8884
 4/8/2020,5091,CA-2017-132738,First Class,HM-14860,Corporate,United States,Loveland,Colorado,80538,West,OFF-EN-10001141,Office Supplies,Envelopes,"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",8.784,1,0.2,3.1842
 4/8/2020,5243,CA-2017-146367,Standard Class,HM-14860,Corporate,United States,Carrollton,Texas,75007,Central,OFF-BI-10002827,Office Supplies,Binders,Avery Durable Poly Binders,3.318,3,0.8,-5.6406
-5/8/2020,1443,CA-2017-117695,First Class,PW-19030,Corporate,United States,Richmond,Kentucky,40475,South,OFF-PA-10002713,Office Supplies,Paper,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",13.76,2,0,6.3296
+5/8/2020,1443,CA-2017-117695,First Class,PW-19030,Corporate,United States,Richmond,Kentucky,40475,South,OFF-PA-10002713,Office Supplies,Paper,"Adams Phone Message Book, 200 Message Capacity, 8 1/16Â” x 11Â”",13.76,2,0,6.3296
 5/8/2020,6081,CA-2017-154676,First Class,NZ-18565,Home Office,United States,Houston,Texas,77070,Central,OFF-ST-10001172,Office Supplies,Storage,"Tennsco Lockers, Sand",151.056,9,0.2,7.5528
 5/8/2020,6641,CA-2017-128328,Standard Class,PO-18865,Consumer,United States,Indianapolis,Indiana,46203,Central,OFF-BI-10001989,Office Supplies,Binders,Premium Transparent Presentation Covers by GBC,125.88,6,0,60.4224
-5/8/2020,6642,CA-2017-128328,Standard Class,PO-18865,Consumer,United States,Indianapolis,Indiana,46203,Central,TEC-AC-10001714,Technology,Accessories,Logitech MX Performance Wireless Mouse,79.78,2,0,29.5186
+5/8/2020,6642,CA-2017-128328,Standard Class,PO-18865,Consumer,United States,Indianapolis,Indiana,46203,Central,TEC-AC-10001714,Technology,Accessories,LogitechÂ MX Performance Wireless Mouse,79.78,2,0,29.5186
 5/8/2020,6643,CA-2017-128328,Standard Class,PO-18865,Consumer,United States,Indianapolis,Indiana,46203,Central,OFF-LA-10003498,Office Supplies,Labels,Avery 475,133.2,9,0,66.6
 6/8/2020,1933,CA-2017-161200,Second Class,SV-20365,Consumer,United States,Lafayette,Louisiana,70506,South,FUR-BO-10000468,Furniture,Bookcases,O'Sullivan 2-Shelf Heavy-Duty Bookcases,145.74,3,0,23.3184
 6/8/2020,1934,CA-2017-161200,Second Class,SV-20365,Consumer,United States,Lafayette,Louisiana,70506,South,FUR-FU-10001706,Furniture,Furnishings,Longer-Life Soft White Bulbs,15.4,5,0,7.392
@@ -1452,7 +1452,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 7/8/2020,4458,CA-2017-115175,Standard Class,MC-17575,Consumer,United States,San Jose,California,95123,West,OFF-PA-10001878,Office Supplies,Paper,Xerox 1891,244.55,5,0,114.9385
 7/8/2020,7652,CA-2017-110821,First Class,CK-12205,Consumer,United States,Dallas,Texas,75081,Central,TEC-AC-10001552,Technology,Accessories,Logitech K350 2.4Ghz Wireless Keyboard,119.448,3,0.2,-13.4379
 7/8/2020,7653,CA-2017-110821,First Class,CK-12205,Consumer,United States,Dallas,Texas,75081,Central,OFF-ST-10002790,Office Supplies,Storage,Safco Industrial Shelving,118.16,2,0.2,-25.109
-7/8/2020,9180,CA-2017-156776,Standard Class,JL-15505,Consumer,United States,Westminster,California,92683,West,TEC-PH-10002415,Technology,Phones,Polycom VoiceStation 500 Conference phone,707.88,3,0.2,44.2425
+7/8/2020,9180,CA-2017-156776,Standard Class,JL-15505,Consumer,United States,Westminster,California,92683,West,TEC-PH-10002415,Technology,Phones,Polycom VoiceStation 500 ConferenceÂ phone,707.88,3,0.2,44.2425
 7/8/2020,9181,CA-2017-156776,Standard Class,JL-15505,Consumer,United States,Westminster,California,92683,West,OFF-BI-10003355,Office Supplies,Binders,Cardinal Holdit Business Card Pockets,11.952,3,0.2,4.1832
 7/8/2020,9182,CA-2017-156776,Standard Class,JL-15505,Consumer,United States,Westminster,California,92683,West,OFF-BI-10000216,Office Supplies,Binders,"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",31.128,3,0.2,11.673
 7/8/2020,9183,CA-2017-156776,Standard Class,JL-15505,Consumer,United States,Westminster,California,92683,West,TEC-AC-10004803,Technology,Accessories,Sony Micro Vault Click 4 GB USB 2.0 Flash Drive,55.76,4,0,7.8064
@@ -1530,7 +1530,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 18-08-20,1515,CA-2017-112809,Standard Class,RA-19915,Consumer,United States,Dallas,Texas,75220,Central,OFF-BI-10001636,Office Supplies,Binders,Ibico Plastic and Wire Spiral Binding Combs,6.744,4,0.8,-11.4648
 18-08-20,4277,CA-2017-151358,Standard Class,NF-18595,Home Office,United States,Seattle,Washington,98105,West,OFF-ST-10000046,Office Supplies,Storage,Fellowes Super Stor/Drawer Files,323.1,2,0,61.389
 18-08-20,5612,CA-2017-121027,Standard Class,HW-14935,Corporate,United States,Seattle,Washington,98105,West,TEC-AC-10002049,Technology,Accessories,Plantronics Savi W720 Multi-Device Wireless Headset System,843.9,2,0,371.316
-18-08-20,5613,CA-2017-121027,Standard Class,HW-14935,Corporate,United States,Seattle,Washington,98105,West,TEC-AC-10002253,Technology,Accessories,Imation Bio 8GB USB Flash Drive Imation Corp,1496.16,9,0,224.424
+18-08-20,5613,CA-2017-121027,Standard Class,HW-14935,Corporate,United States,Seattle,Washington,98105,West,TEC-AC-10002253,Technology,Accessories,Imation Bio 8GB USBÂ Flash Drive ImationÂ Corp,1496.16,9,0,224.424
 18-08-20,6210,CA-2017-119809,Standard Class,YS-21880,Corporate,United States,Seattle,Washington,98103,West,OFF-BI-10003925,Office Supplies,Binders,Fellowes PB300 Plastic Comb Binding Machine,2793.528,9,0.2,942.8157
 18-08-20,6211,CA-2017-119809,Standard Class,YS-21880,Corporate,United States,Seattle,Washington,98103,West,OFF-ST-10003306,Office Supplies,Storage,Letter Size Cart,1000.02,7,0,290.0058
 18-08-20,6212,CA-2017-119809,Standard Class,YS-21880,Corporate,United States,Seattle,Washington,98103,West,FUR-FU-10001475,Furniture,Furnishings,"Contract Clock, 14"", Brown",65.94,3,0,22.4196
@@ -1545,9 +1545,9 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 20-08-20,2855,CA-2017-137344,Same Day,EM-13810,Corporate,United States,Franklin,Massachusetts,2038,East,OFF-ST-10000344,Office Supplies,Storage,"Neat Ideas Personal Hanging Folder Files, Black",40.29,3,0,10.4754
 20-08-20,5965,CA-2017-119011,Standard Class,LR-17035,Corporate,United States,San Francisco,California,94109,West,OFF-SU-10004768,Office Supplies,Supplies,Acme Kleencut Forged Steel Scissors,17.22,3,0,5.166
 20-08-20,5966,CA-2017-119011,Standard Class,LR-17035,Corporate,United States,San Francisco,California,94109,West,OFF-ST-10000777,Office Supplies,Storage,"Companion Letter/Legal File, Black",226.56,6,0,63.4368
-20-08-20,5967,CA-2017-119011,Standard Class,LR-17035,Corporate,United States,San Francisco,California,94109,West,TEC-PH-10003171,Technology,Phones,Plantronics Encore H101 Dual Earpieces Headset,107.88,3,0.2,10.788
+20-08-20,5967,CA-2017-119011,Standard Class,LR-17035,Corporate,United States,San Francisco,California,94109,West,TEC-PH-10003171,Technology,Phones,Plantronics Encore H101 Dual EarpiecesÂ Headset,107.88,3,0.2,10.788
 20-08-20,7743,CA-2017-105326,Standard Class,KT-16480,Consumer,United States,Los Angeles,California,90036,West,OFF-PA-10001639,Office Supplies,Paper,Xerox 203,25.92,4,0,12.4416
-20-08-20,8860,US-2017-114356,Standard Class,TT-21460,Home Office,United States,Charlotte,North Carolina,28205,South,TEC-PH-10003171,Technology,Phones,Plantronics Encore H101 Dual Earpieces Headset,35.96,1,0.2,3.596
+20-08-20,8860,US-2017-114356,Standard Class,TT-21460,Home Office,United States,Charlotte,North Carolina,28205,South,TEC-PH-10003171,Technology,Phones,Plantronics Encore H101 Dual EarpiecesÂ Headset,35.96,1,0.2,3.596
 21-08-20,425,CA-2017-155705,Second Class,NF-18385,Consumer,United States,Jackson,Mississippi,39212,South,FUR-CH-10000015,Furniture,Chairs,Hon Multipurpose Stacking Arm Chairs,866.4,4,0,225.264
 21-08-20,827,CA-2017-126956,Standard Class,GT-14710,Consumer,United States,Lakeville,Minnesota,55044,Central,OFF-FA-10002280,Office Supplies,Fasteners,Advantus Plastic Paper Clips,35,7,0,16.8
 21-08-20,828,CA-2017-126956,Standard Class,GT-14710,Consumer,United States,Lakeville,Minnesota,55044,Central,OFF-SU-10000381,Office Supplies,Supplies,Acme Forged Steel Scissors with Black Enamel Handles,37.24,4,0,10.7996
@@ -1634,7 +1634,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 31-08-20,7064,CA-2017-127712,Standard Class,MG-17890,Home Office,United States,Salem,Oregon,97301,West,OFF-SU-10002522,Office Supplies,Supplies,Acme Kleen Earth Office Shears,6.208,2,0.2,0.6984
 31-08-20,9664,CA-2017-132619,Standard Class,MS-17770,Consumer,United States,San Francisco,California,94109,West,OFF-ST-10001511,Office Supplies,Storage,Space Solutions Commercial Steel Shelving,193.95,3,0,9.6975
 1/9/2020,3231,CA-2017-131625,Second Class,BN-11515,Consumer,United States,New York City,New York,10009,East,FUR-FU-10004960,Furniture,Furnishings,"Seth Thomas 12"" Clock w/ Goldtone Case",114.9,5,0,39.066
-1/9/2020,4332,CA-2017-107909,Standard Class,SS-20875,Consumer,United States,Redmond,Washington,98052,West,TEC-AC-10001998,Technology,Accessories,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,19.99,1,0,6.7966
+1/9/2020,4332,CA-2017-107909,Standard Class,SS-20875,Consumer,United States,Redmond,Washington,98052,West,TEC-AC-10001998,Technology,Accessories,LogitechÂ LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,19.99,1,0,6.7966
 1/9/2020,4333,CA-2017-107909,Standard Class,SS-20875,Consumer,United States,Redmond,Washington,98052,West,OFF-BI-10003476,Office Supplies,Binders,Avery Metallic Poly Binders,22.92,5,0.2,8.022
 1/9/2020,4723,US-2017-135230,Standard Class,CK-12325,Home Office,United States,Seattle,Washington,98103,West,OFF-AR-10001166,Office Supplies,Art,Staples in misc. colors,7.58,1,0,2.9562
 1/9/2020,5220,CA-2017-145653,Same Day,CA-12775,Consumer,United States,Detroit,Michigan,48205,Central,FUR-CH-10004875,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chairs,498.26,7,0,134.5302
@@ -1642,7 +1642,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 1/9/2020,9032,CA-2017-128041,Same Day,RW-19540,Corporate,United States,Seattle,Washington,98103,West,FUR-TA-10002607,Furniture,Tables,KI Conference Tables,283.56,4,0,45.3696
 2/9/2020,702,CA-2017-114552,Standard Class,Dl-13600,Corporate,United States,Cleveland,Ohio,44105,East,FUR-FU-10002960,Furniture,Furnishings,"Eldon 200 Class Desk Accessories, Burgundy",15.072,3,0.2,4.1448
 2/9/2020,910,CA-2017-137596,Standard Class,BE-11335,Home Office,United States,Jackson,Michigan,49201,Central,TEC-PH-10001494,Technology,Phones,Polycom CX600 IP Phone VoIP phone,1199.8,4,0,323.946
-2/9/2020,911,CA-2017-137596,Standard Class,BE-11335,Home Office,United States,Jackson,Michigan,49201,Central,TEC-AC-10004666,Technology,Accessories,Maxell iVDR EX 500GB Cartridge,1928.78,7,0,829.3754
+2/9/2020,911,CA-2017-137596,Standard Class,BE-11335,Home Office,United States,Jackson,Michigan,49201,Central,TEC-AC-10004666,Technology,Accessories,MaxellÂ iVDR EX 500GB Cartridge,1928.78,7,0,829.3754
 2/9/2020,912,CA-2017-137596,Standard Class,BE-11335,Home Office,United States,Jackson,Michigan,49201,Central,OFF-ST-10003816,Office Supplies,Storage,Fellowes High-Stak Drawer Files,352.38,2,0,81.0474
 2/9/2020,933,CA-2017-114216,Standard Class,RK-19300,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-10002195,Office Supplies,Paper,"RSVP Cards & Envelopes, Blank White, 8-1/2"" X 11"", 24 Cards/25 Envelopes/Set",12.192,3,0.2,4.1148
 2/9/2020,1266,CA-2017-110380,Standard Class,PF-19225,Consumer,United States,San Francisco,California,94122,West,OFF-AR-10000422,Office Supplies,Art,Pencil and Crayon Sharpener,6.57,3,0,1.7739
@@ -1719,7 +1719,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 4/9/2020,9129,US-2017-147655,First Class,AS-10045,Corporate,United States,Redmond,Oregon,97756,West,OFF-BI-10002931,Office Supplies,Binders,"Avery Trapezoid Extra Heavy Duty 4"" Binders",88.074,7,0.7,-58.716
 5/9/2020,1562,CA-2017-107293,First Class,CS-12400,Home Office,United States,Seattle,Washington,98115,West,OFF-AR-10003732,Office Supplies,Art,Newell 333,2.78,1,0,0.7228
 5/9/2020,3488,CA-2017-120705,Standard Class,MG-17875,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-ST-10001522,Office Supplies,Storage,"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",147.184,2,0.2,-29.4368
-5/9/2020,8197,CA-2017-102736,Standard Class,LP-17095,Consumer,United States,Knoxville,Tennessee,37918,South,TEC-AC-10004568,Technology,Accessories,Maxell LTO Ultrium - 800 GB,89.568,4,0.2,-1.1196
+5/9/2020,8197,CA-2017-102736,Standard Class,LP-17095,Consumer,United States,Knoxville,Tennessee,37918,South,TEC-AC-10004568,Technology,Accessories,MaxellÂ LTO Ultrium - 800 GB,89.568,4,0.2,-1.1196
 5/9/2020,8198,CA-2017-102736,Standard Class,LP-17095,Consumer,United States,Knoxville,Tennessee,37918,South,OFF-AR-10001897,Office Supplies,Art,Model L Table or Wall-Mount Pencil Sharpener,71.96,5,0.2,7.196
 5/9/2020,8199,CA-2017-102736,Standard Class,LP-17095,Consumer,United States,Knoxville,Tennessee,37918,South,OFF-PA-10001800,Office Supplies,Paper,Xerox 220,15.552,3,0.2,5.4432
 7/9/2020,533,US-2017-129441,Standard Class,JC-15340,Consumer,United States,Los Angeles,California,90032,West,FUR-FU-10000448,Furniture,Furnishings,Tenex Chairmats For Use With Carpeted Floors,47.94,3,0,2.397
@@ -1741,13 +1741,13 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 7/9/2020,8125,US-2017-150070,Standard Class,JA-15970,Consumer,United States,Modesto,California,95351,West,FUR-CH-10004860,Furniture,Chairs,Global Low Back Tilter Chair,161.568,2,0.2,-28.2744
 7/9/2020,8211,CA-2017-128769,Standard Class,DM-12955,Corporate,United States,Nashville,Tennessee,37211,South,OFF-AP-10001271,Office Supplies,Appliances,Eureka The Boss Cordless Rechargeable Stick Vac,81.568,2,0.2,7.1372
 7/9/2020,9327,US-2017-130687,First Class,PF-19225,Consumer,United States,Edmonds,Washington,98026,West,FUR-FU-10004053,Furniture,Furnishings,DAX Two-Tone Silver Metal Document Frame,80.96,4,0,34.8128
-7/9/2020,9328,US-2017-130687,First Class,PF-19225,Consumer,United States,Edmonds,Washington,98026,West,TEC-PH-10002033,Technology,Phones,Konftel 250 Conference phone - Charcoal black,455.712,2,0.2,34.1784
+7/9/2020,9328,US-2017-130687,First Class,PF-19225,Consumer,United States,Edmonds,Washington,98026,West,TEC-PH-10002033,Technology,Phones,Konftel 250 ConferenceÂ phoneÂ - Charcoal black,455.712,2,0.2,34.1784
 7/9/2020,9329,US-2017-130687,First Class,PF-19225,Consumer,United States,Edmonds,Washington,98026,West,OFF-AR-10004260,Office Supplies,Art,Boston 1799 Powerhouse Electric Pencil Sharpener,25.98,1,0,7.2744
 7/9/2020,9539,US-2017-169488,First Class,AA-10375,Consumer,United States,Providence,Rhode Island,2908,East,OFF-PA-10002659,Office Supplies,Paper,Avoid Verbal Orders Carbonless Minifold Book,16.9,5,0,7.774
 7/9/2020,9540,US-2017-169488,First Class,AA-10375,Consumer,United States,Providence,Rhode Island,2908,East,OFF-PA-10000157,Office Supplies,Paper,Xerox 191,39.96,2,0,18.7812
 8/9/2020,1714,US-2017-124968,Second Class,MM-18055,Consumer,United States,Chicago,Illinois,60610,Central,FUR-TA-10004289,Furniture,Tables,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,765.625,7,0.5,-566.5625
 8/9/2020,3127,CA-2017-149895,Standard Class,EB-14110,Consumer,United States,Philadelphia,Pennsylvania,19134,East,TEC-PH-10002200,Technology,Phones,Aastra 6757i CT Wireless VoIP phone,258.528,2,0.4,-47.3968
-8/9/2020,3657,CA-2017-158036,Standard Class,DB-13555,Corporate,United States,Dublin,Ohio,43017,East,TEC-AC-10002558,Technology,Accessories,Imation Swivel Flash Drive USB flash drive - 8 GB,9.096,1,0.2,1.7055
+8/9/2020,3657,CA-2017-158036,Standard Class,DB-13555,Corporate,United States,Dublin,Ohio,43017,East,TEC-AC-10002558,Technology,Accessories,ImationÂ SwivelÂ Flash DriveÂ USBÂ flash driveÂ - 8 GB,9.096,1,0.2,1.7055
 8/9/2020,4529,CA-2017-152856,Second Class,RS-19765,Corporate,United States,Marion,Ohio,43302,East,TEC-AC-10004864,Technology,Accessories,Memorex Micro Travel Drive 32 GB,116.832,4,0.2,33.5892
 8/9/2020,5768,CA-2017-126396,Second Class,AR-10345,Corporate,United States,Houston,Texas,77070,Central,TEC-AC-10003116,Technology,Accessories,Memorex Froggy Flash Drive 8 GB,85.2,6,0.2,20.235
 8/9/2020,6649,US-2017-124779,First Class,BF-11020,Corporate,United States,Arlington,Texas,76017,Central,OFF-BI-10002429,Office Supplies,Binders,"Premier Elliptical Ring Binder, Black",42.616,7,0.8,-68.1856
@@ -1794,7 +1794,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 10/9/2020,1959,CA-2017-110905,Second Class,RW-19690,Consumer,United States,Springfield,Missouri,65807,Central,OFF-BI-10003669,Office Supplies,Binders,3M Organizer Strips,16.2,3,0,7.776
 10/9/2020,1960,CA-2017-110905,Second Class,RW-19690,Consumer,United States,Springfield,Missouri,65807,Central,OFF-AP-10004785,Office Supplies,Appliances,"Holmes Replacement Filter for HEPA Air Cleaner, Medium Room",33.99,3,0,14.6157
 10/9/2020,1961,CA-2017-110905,Second Class,RW-19690,Consumer,United States,Springfield,Missouri,65807,Central,TEC-AC-10003023,Technology,Accessories,Logitech G105 Gaming Keyboard,296.85,5,0,53.433
-10/9/2020,1962,CA-2017-110905,Second Class,RW-19690,Consumer,United States,Springfield,Missouri,65807,Central,TEC-AC-10002217,Technology,Accessories,Imation Clip USB flash drive - 8 GB,112.8,6,0,6.768
+10/9/2020,1962,CA-2017-110905,Second Class,RW-19690,Consumer,United States,Springfield,Missouri,65807,Central,TEC-AC-10002217,Technology,Accessories,ImationÂ Clip USBÂ flash driveÂ - 8 GB,112.8,6,0,6.768
 10/9/2020,1963,CA-2017-110905,Second Class,RW-19690,Consumer,United States,Springfield,Missouri,65807,Central,OFF-BI-10002954,Office Supplies,Binders,Newell 3-Hole Punched Plastic Slotted Magazine Holders for Binders,13.71,3,0,6.5808
 10/9/2020,1964,CA-2017-110905,Second Class,RW-19690,Consumer,United States,Springfield,Missouri,65807,Central,OFF-PA-10002586,Office Supplies,Paper,Xerox 1970,24.9,5,0,11.703
 10/9/2020,1965,CA-2017-110905,Second Class,RW-19690,Consumer,United States,Springfield,Missouri,65807,Central,OFF-ST-10000025,Office Supplies,Storage,Fellowes Stor/Drawer Steel Plus Storage Drawers,286.29,3,0,17.1774
@@ -1892,7 +1892,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 16-09-20,3461,CA-2017-136448,First Class,AS-10090,Consumer,United States,Philadelphia,Pennsylvania,19143,East,TEC-AC-10003628,Technology,Accessories,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,47.984,2,0.2,14.3952
 16-09-20,5984,CA-2017-112984,Second Class,EH-14185,Consumer,United States,Philadelphia,Pennsylvania,19143,East,OFF-PA-10003657,Office Supplies,Paper,Xerox 1927,20.544,6,0.2,6.42
 16-09-20,9337,CA-2017-130715,Standard Class,CY-12745,Corporate,United States,San Francisco,California,94110,West,OFF-FA-10000621,Office Supplies,Fasteners,"OIC Colored Binder Clips, Assorted Sizes",17.9,5,0,8.771
-16-09-20,9961,CA-2017-141446,Second Class,CL-12700,Home Office,United States,Florence,Kentucky,41042,South,TEC-AC-10002305,Technology,Accessories,KeyTronic E03601U1 - Keyboard - Beige,18,1,0,3.24
+16-09-20,9961,CA-2017-141446,Second Class,CL-12700,Home Office,United States,Florence,Kentucky,41042,South,TEC-AC-10002305,Technology,Accessories,KeyTronicÂ E03601U1 -Â KeyboardÂ - Beige,18,1,0,3.24
 17-09-20,2268,CA-2017-137470,Same Day,TP-21415,Consumer,United States,Seattle,Washington,98115,West,OFF-PA-10002001,Office Supplies,Paper,Xerox 1984,12.96,2,0,6.3504
 17-09-20,2304,CA-2017-157931,Second Class,MO-17800,Home Office,United States,Roswell,Georgia,30076,South,FUR-CH-10000785,Furniture,Chairs,Global Ergonomic Managers Chair,723.92,4,0,188.2192
 17-09-20,2305,CA-2017-157931,Second Class,MO-17800,Home Office,United States,Roswell,Georgia,30076,South,OFF-PA-10000474,Office Supplies,Paper,Easy-staple paper,106.32,3,0,49.9704
@@ -1905,8 +1905,8 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 17-09-20,2658,CA-2017-112515,Second Class,AS-10225,Corporate,United States,Provo,Utah,84604,West,OFF-LA-10001175,Office Supplies,Labels,Avery 514,14.4,5,0,7.056
 17-09-20,7450,CA-2017-105669,Second Class,SJ-20125,Home Office,United States,Houston,Texas,77036,Central,OFF-AR-10000390,Office Supplies,Art,Newell Chalk Holder,9.912,3,0.2,3.2214
 17-09-20,7451,CA-2017-105669,Second Class,SJ-20125,Home Office,United States,Houston,Texas,77036,Central,FUR-CH-10003774,Furniture,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",318.43,5,0.3,-77.333
-17-09-20,7452,CA-2017-105669,Second Class,SJ-20125,Home Office,United States,Houston,Texas,77036,Central,OFF-BI-10002412,Office Supplies,Binders,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,5.8,5,0.8,-10.15
-17-09-20,7453,CA-2017-105669,Second Class,SJ-20125,Home Office,United States,Houston,Texas,77036,Central,TEC-PH-10002415,Technology,Phones,Polycom VoiceStation 500 Conference phone,1415.76,6,0.2,88.485
+17-09-20,7452,CA-2017-105669,Second Class,SJ-20125,Home Office,United States,Houston,Texas,77036,Central,OFF-BI-10002412,Office Supplies,Binders,Wilson Jones Â“SnapÂ” Scratch Pad Binder Tool for Ring Binders,5.8,5,0.8,-10.15
+17-09-20,7453,CA-2017-105669,Second Class,SJ-20125,Home Office,United States,Houston,Texas,77036,Central,TEC-PH-10002415,Technology,Phones,Polycom VoiceStation 500 ConferenceÂ phone,1415.76,6,0.2,88.485
 17-09-20,8878,CA-2017-126928,Standard Class,GZ-14470,Consumer,United States,Morristown,New Jersey,7960,East,TEC-MA-10004626,Technology,Machines,Lexmark 20R1285 X6650 Wireless All-in-One Printer,480,4,0,225.6
 17-09-20,8879,CA-2017-126928,Standard Class,GZ-14470,Consumer,United States,Morristown,New Jersey,7960,East,OFF-ST-10000615,Office Supplies,Storage,"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",34.05,3,0,9.534
 17-09-20,9726,CA-2017-142293,First Class,SC-20380,Consumer,United States,Boise,Idaho,83704,West,TEC-AC-10001109,Technology,Accessories,Logitech Trackman Marble Mouse,89.97,3,0,37.7874
@@ -1922,7 +1922,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 18-09-20,5412,CA-2017-166856,Standard Class,TS-21505,Consumer,United States,Clovis,New Mexico,88101,West,OFF-BI-10002012,Office Supplies,Binders,Wilson Jones Easy Flow II Sheet Lifters,10.08,7,0.2,3.528
 18-09-20,5413,CA-2017-166856,Standard Class,TS-21505,Consumer,United States,Clovis,New Mexico,88101,West,TEC-AC-10004992,Technology,Accessories,Kingston Digital DataTraveler 64GB USB 2.0,101.34,3,0,8.1072
 18-09-20,6890,CA-2017-164756,Standard Class,SS-20140,Corporate,United States,Columbus,Georgia,31907,South,TEC-PH-10001552,Technology,Phones,I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink,95.68,8,0,26.7904
-18-09-20,6891,CA-2017-164756,Standard Class,SS-20140,Corporate,United States,Columbus,Georgia,31907,South,OFF-PA-10000673,Office Supplies,Paper,"Post-it “Important Message” Note Pad, Neon Colors, 50 Sheets/Pad",50.96,7,0,24.4608
+18-09-20,6891,CA-2017-164756,Standard Class,SS-20140,Corporate,United States,Columbus,Georgia,31907,South,OFF-PA-10000673,Office Supplies,Paper,"Post-it Â“Important MessageÂ” Note Pad, Neon Colors, 50 Sheets/Pad",50.96,7,0,24.4608
 18-09-20,6892,CA-2017-164756,Standard Class,SS-20140,Corporate,United States,Columbus,Georgia,31907,South,OFF-AR-10000380,Office Supplies,Art,"Hunt PowerHouse Electric Pencil Sharpener, Blue",113.94,3,0,34.182
 18-09-20,6893,CA-2017-164756,Standard Class,SS-20140,Corporate,United States,Columbus,Georgia,31907,South,OFF-PA-10003848,Office Supplies,Paper,Xerox 1997,25.92,4,0,12.4416
 18-09-20,6894,CA-2017-164756,Standard Class,SS-20140,Corporate,United States,Columbus,Georgia,31907,South,FUR-FU-10002963,Furniture,Furnishings,"Master Caster Door Stop, Gray",20.32,4,0,6.9088
@@ -1942,23 +1942,23 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 19-09-20,6770,CA-2017-139787,Standard Class,JP-16135,Home Office,United States,Columbus,Georgia,31907,South,OFF-AR-10002445,Office Supplies,Art,SANFORD Major Accent Highlighters,35.4,5,0,13.452
 19-09-20,6971,CA-2017-153822,Standard Class,AB-10105,Consumer,United States,Phoenix,Arizona,85023,West,OFF-ST-10000321,Office Supplies,Storage,Akro Stacking Bins,12.624,2,0.2,-2.5248
 19-09-20,6972,CA-2017-153822,Standard Class,AB-10105,Consumer,United States,Phoenix,Arizona,85023,West,TEC-AC-10000109,Technology,Accessories,Sony Micro Vault Click 16 GB USB 2.0 Flash Drive,89.584,2,0.2,4.4792
-19-09-20,6973,CA-2017-153822,Standard Class,AB-10105,Consumer,United States,Phoenix,Arizona,85023,West,TEC-PH-10002415,Technology,Phones,Polycom VoiceStation 500 Conference phone,471.92,2,0.2,29.495
+19-09-20,6973,CA-2017-153822,Standard Class,AB-10105,Consumer,United States,Phoenix,Arizona,85023,West,TEC-PH-10002415,Technology,Phones,Polycom VoiceStation 500 ConferenceÂ phone,471.92,2,0.2,29.495
 19-09-20,6974,CA-2017-153822,Standard Class,AB-10105,Consumer,United States,Phoenix,Arizona,85023,West,OFF-BI-10001460,Office Supplies,Binders,Plastic Binding Combs,18.18,4,0.7,-13.938
 19-09-20,7791,CA-2017-160801,Same Day,FG-14260,Home Office,United States,Philadelphia,Pennsylvania,19120,East,OFF-BI-10001132,Office Supplies,Binders,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 9 1/2"" X 11""",4.842,3,0.7,-3.3894
 20-09-20,6091,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,FUR-CH-10003846,Furniture,Chairs,Hon Valutask Swivel Chairs,272.646,3,0.1,18.1764
-20-09-20,6092,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,TEC-AC-10002647,Technology,Accessories,"Logitech Wireless Boombox Speaker - portable - wireless, wired",212.8,2,0,95.76
+20-09-20,6092,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,TEC-AC-10002647,Technology,Accessories,"LogitechÂ Wireless Boombox Speaker - portable - wireless, wired",212.8,2,0,95.76
 20-09-20,6093,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,OFF-PA-10000807,Office Supplies,Paper,"TOPS ""Important Message"" Pads, Canary, 4-1/4 x 5-1/2, 50 Sheets per Pad",38.52,9,0,18.1044
 20-09-20,6094,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,TEC-AC-10001465,Technology,Accessories,SanDisk Cruzer 64 GB USB Flash Drive,72.64,2,0,21.792
 20-09-20,6095,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,OFF-ST-10000615,Office Supplies,Storage,"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",45.4,4,0,12.712
-20-09-20,6096,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,OFF-PA-10002713,Office Supplies,Paper,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",13.76,2,0,6.3296
+20-09-20,6096,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,OFF-PA-10002713,Office Supplies,Paper,"Adams Phone Message Book, 200 Message Capacity, 8 1/16Â” x 11Â”",13.76,2,0,6.3296
 20-09-20,6097,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,FUR-CH-10003061,Furniture,Chairs,"Global Leather Task Chair, Black",80.991,1,0.1,8.0991
 20-09-20,6098,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,OFF-BI-10000343,Office Supplies,Binders,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",11.784,3,0.2,3.9771
 20-09-20,6099,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,OFF-FA-10000304,Office Supplies,Fasteners,Advantus Push Pins,4.36,2,0,1.7876
 20-09-20,6100,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,FUR-CH-10004086,Furniture,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,2888.127,11,0.1,609.7157
 20-09-20,6101,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,TEC-PH-10002885,Technology,Phones,Apple iPhone 5,1299.66,2,0,350.9082
 20-09-20,6102,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,2254.41,5,0.1,375.735
-20-09-20,6103,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,TEC-PH-10000215,Technology,Phones,Plantronics Cordless Phone Headset with In-line Volume - M214C,104.85,3,0,28.3095
-20-09-20,6104,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,TEC-AC-10001998,Technology,Accessories,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,59.97,3,0,20.3898
+20-09-20,6103,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,TEC-PH-10000215,Technology,Phones,Plantronics CordlessÂ Phone HeadsetÂ with In-line Volume - M214C,104.85,3,0,28.3095
+20-09-20,6104,CA-2017-100111,Standard Class,SV-20365,Consumer,United States,New York City,New York,10035,East,TEC-AC-10001998,Technology,Accessories,LogitechÂ LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,59.97,3,0,20.3898
 21-09-20,796,CA-2017-151428,Standard Class,RH-19495,Consumer,United States,Rochester,Minnesota,55901,Central,OFF-BI-10000546,Office Supplies,Binders,Avery Durable Binders,20.16,7,0,9.8784
 21-09-20,4263,CA-2017-123351,Standard Class,KT-16480,Consumer,United States,Columbus,Georgia,31907,South,OFF-AP-10001242,Office Supplies,Appliances,APC 7 Outlet Network SurgeArrest Surge Protector,80.48,1,0,24.144
 21-09-20,4757,CA-2017-169817,Standard Class,EB-13870,Consumer,United States,Philadelphia,Pennsylvania,19143,East,OFF-BI-10004141,Office Supplies,Binders,Insertable Tab Indexes For Data Binders,1.908,2,0.7,-1.5264
@@ -1993,7 +1993,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 23-09-20,1079,CA-2017-132521,Second Class,DW-13540,Consumer,United States,Seattle,Washington,98105,West,OFF-ST-10001325,Office Supplies,Storage,Sterilite Officeware Hinged File Box,31.44,3,0,8.4888
 23-09-20,1080,CA-2017-132521,Second Class,DW-13540,Consumer,United States,Seattle,Washington,98105,West,OFF-BI-10000404,Office Supplies,Binders,Avery Printable Repositionable Plastic Tabs,6.88,1,0.2,2.322
 23-09-20,1269,CA-2017-121412,Standard Class,BG-11695,Corporate,United States,Louisville,Colorado,80027,West,FUR-FU-10000246,Furniture,Furnishings,Aluminum Document Frame,29.328,3,0.2,3.666
-23-09-20,1970,CA-2017-117485,Standard Class,BD-11320,Consumer,United States,Tulsa,Oklahoma,74133,Central,TEC-AC-10004659,Technology,Accessories,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,291.96,4,0,102.186
+23-09-20,1970,CA-2017-117485,Standard Class,BD-11320,Consumer,United States,Tulsa,Oklahoma,74133,Central,TEC-AC-10004659,Technology,Accessories,ImationÂ Secure+ Hardware Encrypted USB 2.0Â Flash Drive; 16GB,291.96,4,0,102.186
 23-09-20,2329,CA-2017-138422,First Class,KN-16705,Home Office,United States,Fort Collins,Colorado,80525,West,OFF-EN-10004147,Office Supplies,Envelopes,Wausau Papers Astrobrights Colored Envelopes,14.352,3,0.2,5.2026
 23-09-20,3176,US-2017-132059,Standard Class,AP-10915,Consumer,United States,Fort Collins,Colorado,80525,West,FUR-BO-10001811,Furniture,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",180.588,2,0.7,-240.784
 23-09-20,3177,US-2017-132059,Standard Class,AP-10915,Consumer,United States,Fort Collins,Colorado,80525,West,TEC-AC-10003280,Technology,Accessories,Belkin F8E887 USB Wired Ergonomic Keyboard,47.984,2,0.2,0.5998
@@ -2012,8 +2012,8 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 24-09-20,634,CA-2017-144694,Second Class,BD-11605,Consumer,United States,Miami,Florida,33180,South,TEC-AC-10002857,Technology,Accessories,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 1/Pack",17.88,3,0.2,2.4585
 24-09-20,635,CA-2017-144694,Second Class,BD-11605,Consumer,United States,Miami,Florida,33180,South,OFF-LA-10003930,Office Supplies,Labels,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",235.944,3,0.2,85.5297
 24-09-20,718,CA-2017-108910,Standard Class,KC-16540,Consumer,United States,Newark,Ohio,43055,East,FUR-FU-10002253,Furniture,Furnishings,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",103.056,3,0.2,24.4758
-24-09-20,3494,CA-2017-142034,Standard Class,KB-16240,Corporate,United States,Saint Cloud,Minnesota,56301,Central,TEC-AC-10002305,Technology,Accessories,KeyTronic E03601U1 - Keyboard - Beige,72,4,0,12.96
-24-09-20,3495,CA-2017-142034,Standard Class,KB-16240,Corporate,United States,Saint Cloud,Minnesota,56301,Central,TEC-AC-10000990,Technology,Accessories,Imation Bio 2GB USB Flash Drive Imation Corp,655.9,5,0,275.478
+24-09-20,3494,CA-2017-142034,Standard Class,KB-16240,Corporate,United States,Saint Cloud,Minnesota,56301,Central,TEC-AC-10002305,Technology,Accessories,KeyTronicÂ E03601U1 -Â KeyboardÂ - Beige,72,4,0,12.96
+24-09-20,3495,CA-2017-142034,Standard Class,KB-16240,Corporate,United States,Saint Cloud,Minnesota,56301,Central,TEC-AC-10000990,Technology,Accessories,Imation Bio 2GB USBÂ Flash Drive ImationÂ Corp,655.9,5,0,275.478
 24-09-20,3496,CA-2017-142034,Standard Class,KB-16240,Corporate,United States,Saint Cloud,Minnesota,56301,Central,FUR-CH-10000665,Furniture,Chairs,"Global Airflow Leather Mesh Back Chair, Black",603.92,4,0,181.176
 24-09-20,3588,CA-2017-121839,Standard Class,MH-18115,Home Office,United States,Lancaster,Ohio,43130,East,TEC-PH-10002885,Technology,Phones,Apple iPhone 5,1169.694,3,0.4,-253.4337
 24-09-20,5184,CA-2017-163335,First Class,AG-10675,Consumer,United States,Columbus,Georgia,31907,South,OFF-ST-10000885,Office Supplies,Storage,Fellowes Desktop Hanging File Manager,40.29,3,0,10.0725
@@ -2026,7 +2026,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 24-09-20,7924,CA-2017-134096,Standard Class,PP-18955,Home Office,United States,Hollywood,Florida,33021,South,OFF-BI-10004002,Office Supplies,Binders,Wilson Jones International Size A4 Ring Binders,15.57,3,0.7,-11.418
 24-09-20,8485,CA-2017-142391,Same Day,PB-19150,Consumer,United States,Seattle,Washington,98115,West,FUR-FU-10002759,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,199.8,10,0,71.928
 24-09-20,8834,US-2017-132675,Standard Class,KF-16285,Home Office,United States,Sandy Springs,Georgia,30328,South,OFF-ST-10004950,Office Supplies,Storage,"Tenex Personal Filing Tote With Secure Closure Lid, Black/Frost",15.51,1,0,3.8775
-24-09-20,8835,US-2017-132675,Standard Class,KF-16285,Home Office,United States,Sandy Springs,Georgia,30328,South,TEC-PH-10003171,Technology,Phones,Plantronics Encore H101 Dual Earpieces Headset,89.9,2,0,25.172
+24-09-20,8835,US-2017-132675,Standard Class,KF-16285,Home Office,United States,Sandy Springs,Georgia,30328,South,TEC-PH-10003171,Technology,Phones,Plantronics Encore H101 Dual EarpiecesÂ Headset,89.9,2,0,25.172
 24-09-20,8836,US-2017-132675,Standard Class,KF-16285,Home Office,United States,Sandy Springs,Georgia,30328,South,OFF-AR-10000614,Office Supplies,Art,Barrel Sharpener,14.28,4,0,3.7128
 24-09-20,8837,US-2017-132675,Standard Class,KF-16285,Home Office,United States,Sandy Springs,Georgia,30328,South,OFF-AR-10000034,Office Supplies,Art,"BIC Brite Liner Grip Highlighters, Assorted, 5/Pack",12.72,3,0,4.9608
 24-09-20,8838,US-2017-132675,Standard Class,KF-16285,Home Office,United States,Sandy Springs,Georgia,30328,South,OFF-LA-10003766,Office Supplies,Labels,Self-Adhesive Removable Labels,15.75,5,0,7.56
@@ -2148,7 +2148,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 5/10/2020,6339,CA-2017-143112,Standard Class,TS-21370,Corporate,United States,New York City,New York,10035,East,TEC-PH-10003095,Technology,Phones,Samsung HM1900 Bluetooth Headset,87.8,4,0,43.9
 5/10/2020,6340,CA-2017-143112,Standard Class,TS-21370,Corporate,United States,New York City,New York,10035,East,FUR-CH-10002880,Furniture,Chairs,"Global High-Back Leather Tilter, Burgundy",221.382,2,0.1,2.4598
 5/10/2020,6341,CA-2017-143112,Standard Class,TS-21370,Corporate,United States,New York City,New York,10035,East,TEC-MA-10001047,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",5199.96,4,0,1351.9896
-5/10/2020,7564,CA-2017-157672,First Class,RB-19795,Home Office,United States,Denver,Colorado,80219,West,TEC-AC-10001714,Technology,Accessories,Logitech MX Performance Wireless Mouse,63.824,2,0.2,13.5626
+5/10/2020,7564,CA-2017-157672,First Class,RB-19795,Home Office,United States,Denver,Colorado,80219,West,TEC-AC-10001714,Technology,Accessories,LogitechÂ MX Performance Wireless Mouse,63.824,2,0.2,13.5626
 5/10/2020,7956,CA-2017-131807,Standard Class,GG-14650,Corporate,United States,Chico,California,95928,West,FUR-CH-10001190,Furniture,Chairs,Global Deluxe High-Back Office Chair in Storm,435.168,4,0.2,-59.8356
 5/10/2020,7957,CA-2017-131807,Standard Class,GG-14650,Corporate,United States,Chico,California,95928,West,OFF-FA-10002780,Office Supplies,Fasteners,Staples,14.9,5,0,6.854
 5/10/2020,7958,CA-2017-131807,Standard Class,GG-14650,Corporate,United States,Chico,California,95928,West,OFF-AP-10004052,Office Supplies,Appliances,"Hoover Replacement Belts For Soft Guard & Commercial Ltweight Upright Vacs, 2/Pk",15.8,4,0,4.108
@@ -2173,14 +2173,14 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 7/10/2020,2407,CA-2017-108574,Standard Class,MG-18145,Consumer,United States,Los Angeles,California,90045,West,TEC-PH-10000702,Technology,Phones,"Square Credit Card Reader, 4 1/2"" x 4 1/2"" x 1"", White",79.92,10,0.2,26.973
 7/10/2020,3386,CA-2017-148404,Standard Class,Dp-13240,Home Office,United States,Charlotte,North Carolina,28205,South,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,580.672,4,0.2,65.3256
 7/10/2020,3387,CA-2017-148404,Standard Class,Dp-13240,Home Office,United States,Charlotte,North Carolina,28205,South,OFF-FA-10003112,Office Supplies,Fasteners,Staples,18.936,3,0.2,5.9175
-7/10/2020,3388,CA-2017-148404,Standard Class,Dp-13240,Home Office,United States,Charlotte,North Carolina,28205,South,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IP Telephone,222.384,2,0.2,16.6788
+7/10/2020,3388,CA-2017-148404,Standard Class,Dp-13240,Home Office,United States,Charlotte,North Carolina,28205,South,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IPÂ Telephone,222.384,2,0.2,16.6788
 7/10/2020,3389,CA-2017-148404,Standard Class,Dp-13240,Home Office,United States,Charlotte,North Carolina,28205,South,OFF-BI-10002854,Office Supplies,Binders,"Performers Binder/Pad Holder, Black",50.454,6,0.7,-33.636
 7/10/2020,3390,CA-2017-148404,Standard Class,Dp-13240,Home Office,United States,Charlotte,North Carolina,28205,South,FUR-TA-10001039,Furniture,Tables,KI Adjustable-Height Table,154.764,3,0.4,-36.1116
 7/10/2020,4181,CA-2017-128426,Standard Class,JK-15730,Consumer,United States,Houston,Texas,77036,Central,OFF-BI-10000756,Office Supplies,Binders,Storex DuraTech Recycled Plastic Frosted Binders,4.24,5,0.8,-6.36
 7/10/2020,5281,CA-2017-152709,Standard Class,DB-13210,Consumer,United States,Detroit,Michigan,48234,Central,OFF-ST-10001837,Office Supplies,Storage,"SAFCO Mobile Desk Side File, Wire Frame",85.52,2,0,22.2352
 8/10/2020,5481,CA-2017-105487,Standard Class,CS-12250,Corporate,United States,San Diego,California,92105,West,TEC-PH-10001336,Technology,Phones,Digium D40 VoIP phone,103.192,1,0.2,11.6091
-8/10/2020,5482,CA-2017-105487,Standard Class,CS-12250,Corporate,United States,San Diego,California,92105,West,TEC-AC-10002305,Technology,Accessories,KeyTronic E03601U1 - Keyboard - Beige,36,2,0,6.48
-8/10/2020,5483,CA-2017-105487,Standard Class,CS-12250,Corporate,United States,San Diego,California,92105,West,TEC-AC-10003610,Technology,Accessories,Logitech Illuminated - Keyboard,239.96,4,0,115.1808
+8/10/2020,5482,CA-2017-105487,Standard Class,CS-12250,Corporate,United States,San Diego,California,92105,West,TEC-AC-10002305,Technology,Accessories,KeyTronicÂ E03601U1 -Â KeyboardÂ - Beige,36,2,0,6.48
+8/10/2020,5483,CA-2017-105487,Standard Class,CS-12250,Corporate,United States,San Diego,California,92105,West,TEC-AC-10003610,Technology,Accessories,LogitechÂ Illuminated - Keyboard,239.96,4,0,115.1808
 8/10/2020,5484,CA-2017-105487,Standard Class,CS-12250,Corporate,United States,San Diego,California,92105,West,OFF-ST-10002301,Office Supplies,Storage,Tennsco Commercial Shelving,40.68,2,0,0.4068
 8/10/2020,5888,CA-2017-151596,First Class,BP-11050,Corporate,United States,Cranston,Rhode Island,2920,East,OFF-ST-10001837,Office Supplies,Storage,"SAFCO Mobile Desk Side File, Wire Frame",42.76,1,0,11.1176
 8/10/2020,7171,US-2017-168613,Standard Class,GM-14440,Consumer,United States,New York City,New York,10009,East,FUR-CH-10002372,Furniture,Chairs,Office Star - Ergonomically Designed Knee Chair,145.764,2,0.1,3.2392
@@ -2205,7 +2205,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 12/10/2020,5941,CA-2017-112431,Second Class,RW-19690,Consumer,United States,Los Angeles,California,90049,West,TEC-AC-10001465,Technology,Accessories,SanDisk Cruzer 64 GB USB Flash Drive,435.84,12,0,130.752
 12/10/2020,5942,CA-2017-112431,Second Class,RW-19690,Consumer,United States,Los Angeles,California,90049,West,OFF-AR-10000940,Office Supplies,Art,Newell 343,5.88,2,0,1.5876
 12/10/2020,7793,CA-2017-169362,First Class,SP-20860,Corporate,United States,Dallas,Texas,75217,Central,TEC-AC-10001383,Technology,Accessories,Logitech Wireless Touch Keyboard K400,39.984,2,0.2,-1.4994
-12/10/2020,8422,CA-2017-150091,Standard Class,NP-18670,Consumer,United States,Lakewood,New Jersey,8701,East,TEC-AC-10002167,Technology,Accessories,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,45,3,0,4.95
+12/10/2020,8422,CA-2017-150091,Standard Class,NP-18670,Consumer,United States,Lakewood,New Jersey,8701,East,TEC-AC-10002167,Technology,Accessories,ImationÂ 8gb Micro Traveldrive Usb 2.0Â Flash Drive,45,3,0,4.95
 12/10/2020,8423,CA-2017-150091,Standard Class,NP-18670,Consumer,United States,Lakewood,New Jersey,8701,East,OFF-FA-10000621,Office Supplies,Fasteners,"OIC Colored Binder Clips, Assorted Sizes",17.9,5,0,8.771
 12/10/2020,8424,CA-2017-150091,Standard Class,NP-18670,Consumer,United States,Lakewood,New Jersey,8701,East,FUR-FU-10004053,Furniture,Furnishings,DAX Two-Tone Silver Metal Document Frame,40.48,2,0,17.4064
 12/10/2020,8425,CA-2017-150091,Standard Class,NP-18670,Consumer,United States,Lakewood,New Jersey,8701,East,FUR-BO-10003404,Furniture,Bookcases,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",2154.9,5,0,129.294
@@ -2214,7 +2214,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 12/10/2020,9101,CA-2017-152933,Standard Class,MG-17650,Home Office,United States,Dallas,Texas,75081,Central,TEC-AC-10003033,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,791.88,3,0.2,128.6805
 12/10/2020,9487,CA-2017-130505,Same Day,NF-18385,Consumer,United States,Wheeling,West Virginia,26003,East,FUR-TA-10001932,Furniture,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",673.344,3,0.3,-76.9536
 12/10/2020,9888,CA-2017-169607,First Class,CA-12265,Consumer,United States,New York City,New York,10024,East,OFF-PA-10000477,Office Supplies,Paper,Xerox 1952,9.96,2,0,4.6812
-13-10-20,277,CA-2017-132976,Standard Class,AG-10495,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-10000673,Office Supplies,Paper,"Post-it “Important Message” Note Pad, Neon Colors, 50 Sheets/Pad",11.648,2,0.2,4.0768
+13-10-20,277,CA-2017-132976,Standard Class,AG-10495,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-10000673,Office Supplies,Paper,"Post-it Â“Important MessageÂ” Note Pad, Neon Colors, 50 Sheets/Pad",11.648,2,0.2,4.0768
 13-10-20,278,CA-2017-132976,Standard Class,AG-10495,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-10004470,Office Supplies,Paper,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",18.176,4,0.2,5.9072
 13-10-20,279,CA-2017-132976,Standard Class,AG-10495,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-ST-10000876,Office Supplies,Storage,Eldon Simplefile Box Office,59.712,6,0.2,5.9712
 13-10-20,280,CA-2017-132976,Standard Class,AG-10495,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-LA-10002043,Office Supplies,Labels,Avery 489,24.84,3,0.2,8.694
@@ -2333,7 +2333,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 23-10-20,8451,CA-2017-125451,First Class,AH-10075,Corporate,United States,Cranston,Rhode Island,2920,East,OFF-AP-10002906,Office Supplies,Appliances,Hoover Replacement Belt for Commercial Guardsman Heavy-Duty Upright Vacuum,2.22,1,0,0.666
 24-10-20,8678,CA-2017-141705,First Class,PO-18850,Consumer,United States,Mansfield,Texas,76063,Central,FUR-TA-10004607,Furniture,Tables,Hon 2111 Invitation Series Straight Table,517.405,5,0.3,-81.3065
 24-10-20,9612,CA-2017-144365,Standard Class,CS-11950,Consumer,United States,Jackson,Mississippi,39212,South,OFF-FA-10000735,Office Supplies,Fasteners,Staples,11.68,4,0,5.256
-26-10-20,87,CA-2017-155558,Standard Class,PG-18895,Consumer,United States,Rochester,Minnesota,55901,Central,TEC-AC-10001998,Technology,Accessories,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,19.99,1,0,6.7966
+26-10-20,87,CA-2017-155558,Standard Class,PG-18895,Consumer,United States,Rochester,Minnesota,55901,Central,TEC-AC-10001998,Technology,Accessories,LogitechÂ LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,19.99,1,0,6.7966
 26-10-20,88,CA-2017-155558,Standard Class,PG-18895,Consumer,United States,Rochester,Minnesota,55901,Central,OFF-LA-10000134,Office Supplies,Labels,Avery 511,6.16,2,0,2.9568
 26-10-20,6664,CA-2017-162173,Standard Class,OT-18730,Consumer,United States,Virginia Beach,Virginia,23464,South,FUR-TA-10001520,Furniture,Tables,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",356.85,5,0,60.6645
 26-10-20,6665,CA-2017-162173,Standard Class,OT-18730,Consumer,United States,Virginia Beach,Virginia,23464,South,OFF-EN-10002831,Office Supplies,Envelopes,"Tyvek  Top-Opening Peel & Seel  Envelopes, Gray",251.58,7,0,113.211
@@ -2356,7 +2356,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 27-10-20,9241,CA-2017-110310,Standard Class,NB-18655,Corporate,United States,Tallahassee,Florida,32303,South,OFF-BI-10001097,Office Supplies,Binders,Avery Hole Reinforcements,5.607,3,0.7,-3.9249
 27-10-20,9242,CA-2017-110310,Standard Class,NB-18655,Corporate,United States,Tallahassee,Florida,32303,South,OFF-AR-10001662,Office Supplies,Art,Rogers Handheld Barrel Pencil Sharpener,6.576,3,0.2,0.5754
 28-10-20,4260,CA-2017-118367,Second Class,LO-17170,Corporate,United States,New York City,New York,10035,East,OFF-EN-10004386,Office Supplies,Envelopes,"Recycled Interoffice Envelopes with String and Button Closure, 10 x 13",47.98,2,0,23.99
-28-10-20,6495,CA-2017-111262,Second Class,KH-16510,Consumer,United States,Houston,Texas,77095,Central,TEC-AC-10002167,Technology,Accessories,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,24,2,0.2,-2.7
+28-10-20,6495,CA-2017-111262,Second Class,KH-16510,Consumer,United States,Houston,Texas,77095,Central,TEC-AC-10002167,Technology,Accessories,ImationÂ 8gb Micro Traveldrive Usb 2.0Â Flash Drive,24,2,0.2,-2.7
 28-10-20,6496,CA-2017-111262,Second Class,KH-16510,Consumer,United States,Houston,Texas,77095,Central,OFF-PA-10001937,Office Supplies,Paper,Xerox 21,15.552,3,0.2,5.4432
 28-10-20,6497,CA-2017-111262,Second Class,KH-16510,Consumer,United States,Houston,Texas,77095,Central,TEC-AC-10004510,Technology,Accessories,Logitech Desktop MK120 Mouse and keyboard Combo,26.176,2,0.2,-3.272
 28-10-20,7712,CA-2017-139353,Second Class,JM-15250,Consumer,United States,Fayetteville,North Carolina,28314,South,FUR-FU-10001876,Furniture,Furnishings,"Computer Room Manger, 14""",77.952,3,0.2,15.5904
@@ -2388,7 +2388,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 30-10-20,3549,CA-2017-155292,First Class,RD-19810,Home Office,United States,Richmond,Kentucky,40475,South,FUR-CH-10000553,Furniture,Chairs,"Metal Folding Chairs, Beige, 4/Carton",33.94,1,0,9.1638
 30-10-20,3550,CA-2017-155292,First Class,RD-19810,Home Office,United States,Richmond,Kentucky,40475,South,OFF-LA-10001982,Office Supplies,Labels,Smead Alpha-Z Color-Coded Name Labels First Letter Starter Set,30,8,0,14.4
 31-10-20,6398,CA-2017-131632,Standard Class,AH-10120,Home Office,United States,Dallas,Texas,75217,Central,OFF-AR-10003651,Office Supplies,Art,Newell 350,5.248,2,0.2,0.5904
-31-10-20,7827,CA-2017-117114,Standard Class,CY-12745,Corporate,United States,Chicago,Illinois,60610,Central,TEC-PH-10004042,Technology,Phones,ClearOne Communications CHAT 70 OC Speaker Phone,508.768,4,0.2,38.1576
+31-10-20,7827,CA-2017-117114,Standard Class,CY-12745,Corporate,United States,Chicago,Illinois,60610,Central,TEC-PH-10004042,Technology,Phones,ClearOne Communications CHAT 70 OCÂ Speaker Phone,508.768,4,0.2,38.1576
 31-10-20,7828,CA-2017-117114,Standard Class,CY-12745,Corporate,United States,Chicago,Illinois,60610,Central,OFF-EN-10001137,Office Supplies,Envelopes,"#10 Gummed Flap White Envelopes, 100/Box",9.912,3,0.2,3.2214
 1/11/2020,2567,CA-2017-123967,Second Class,SF-20200,Consumer,United States,Bellingham,Washington,98226,West,OFF-BI-10001308,Office Supplies,Binders,GBC Standard Plastic Binding Systems' Combs,25.12,5,0.2,7.85
 1/11/2020,2568,CA-2017-123967,Second Class,SF-20200,Consumer,United States,Bellingham,Washington,98226,West,FUR-TA-10003954,Furniture,Tables,Hon 94000 Series Round Tables,2665.62,9,0,239.9058
@@ -2444,7 +2444,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 3/11/2020,8824,CA-2017-100622,Standard Class,DK-13090,Consumer,United States,Orlando,Florida,32839,South,OFF-PA-10002947,Office Supplies,Paper,Xerox 1923,10.688,2,0.2,3.7408
 4/11/2020,684,US-2017-168116,Same Day,GT-14635,Corporate,United States,Burlington,North Carolina,27217,South,TEC-MA-10004125,Technology,Machines,Cubify CubeX 3D Printer Triple Head Print,7999.98,4,0.5,-3839.9904
 4/11/2020,685,US-2017-168116,Same Day,GT-14635,Corporate,United States,Burlington,North Carolina,27217,South,OFF-AP-10002457,Office Supplies,Appliances,"Eureka The Boss Plus 12-Amp Hard Box Upright Vacuum, Red",167.44,2,0.2,14.651
-4/11/2020,838,US-2017-156083,Standard Class,JL-15175,Home Office,United States,Columbia,Tennessee,38401,South,OFF-PA-10001560,Office Supplies,Paper,"Adams Telephone Message Books, 5 1/4” x 11”",9.664,2,0.2,3.2616
+4/11/2020,838,US-2017-156083,Standard Class,JL-15175,Home Office,United States,Columbia,Tennessee,38401,South,OFF-PA-10001560,Office Supplies,Paper,"Adams Telephone Message Books, 5 1/4Â” x 11Â”",9.664,2,0.2,3.2616
 4/11/2020,1411,CA-2017-105144,Standard Class,SZ-20035,Home Office,United States,Grand Prairie,Texas,75051,Central,OFF-LA-10003923,Office Supplies,Labels,Alphabetical Labels for Top Tab Filing,23.68,2,0.2,8.88
 4/11/2020,3799,CA-2017-147760,First Class,KL-16555,Corporate,United States,Greensboro,North Carolina,27405,South,FUR-TA-10004575,Furniture,Tables,Hon 5100 Series Wood Tables,523.764,3,0.4,-192.0468
 4/11/2020,3800,CA-2017-147760,First Class,KL-16555,Corporate,United States,Greensboro,North Carolina,27405,South,TEC-PH-10002483,Technology,Phones,Motorola Moto X,1359.96,5,0.2,118.9965
@@ -2461,7 +2461,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 4/11/2020,9761,CA-2017-159135,Standard Class,KM-16375,Home Office,United States,Springdale,Arkansas,72762,South,OFF-AR-10000657,Office Supplies,Art,"Binney & Smith inkTank Desk Highlighter, Chisel Tip, Yellow, 12/Box",4.3,2,0,1.419
 5/11/2020,127,US-2017-107272,Standard Class,TS-21610,Consumer,United States,Phoenix,Arizona,85023,West,OFF-BI-10003274,Office Supplies,Binders,"Avery Durable Slant Ring Binders, No Labels",2.388,2,0.7,-1.8308
 5/11/2020,128,US-2017-107272,Standard Class,TS-21610,Consumer,United States,Phoenix,Arizona,85023,West,OFF-ST-10002974,Office Supplies,Storage,"Trav-L-File Heavy-Duty Shuttle II, Black",243.992,7,0.2,30.499
-5/11/2020,938,US-2017-111745,First Class,RA-19885,Corporate,United States,Farmington,New Mexico,87401,West,TEC-AC-10003911,Technology,Accessories,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,159.99,1,0,54.3966
+5/11/2020,938,US-2017-111745,First Class,RA-19885,Corporate,United States,Farmington,New Mexico,87401,West,TEC-AC-10003911,Technology,Accessories,NETGEAR AC1750 Dual Band GigabitÂ Smart WiFi Router,159.99,1,0,54.3966
 5/11/2020,2308,CA-2017-116225,Standard Class,SV-20935,Consumer,United States,New York City,New York,10009,East,TEC-AC-10001432,Technology,Accessories,Enermax Aurora Lite Keyboard,390.75,5,0,171.93
 5/11/2020,3349,CA-2017-154732,First Class,AH-10195,Corporate,United States,Chicago,Illinois,60623,Central,OFF-BI-10000474,Office Supplies,Binders,Avery Recycled Flexi-View Covers for Binding Systems,16.03,5,0.8,-25.648
 5/11/2020,3462,CA-2017-114258,Second Class,EM-13825,Corporate,United States,Dallas,Texas,75081,Central,TEC-PH-10003012,Technology,Phones,Nortel Meridian M3904 Professional Digital phone,492.768,4,0.2,55.4364
@@ -2499,14 +2499,14 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 6/11/2020,5907,US-2017-153948,Same Day,FM-14290,Home Office,United States,San Francisco,California,94122,West,TEC-AC-10003441,Technology,Accessories,Kingston Digital DataTraveler 32GB USB 2.0,16.95,1,0,1.017
 6/11/2020,7099,CA-2017-144596,Standard Class,CD-11980,Consumer,United States,New York City,New York,10011,East,OFF-PA-10003302,Office Supplies,Paper,Xerox 1906,318.96,9,0,149.9112
 6/11/2020,8169,CA-2017-107174,Standard Class,AB-10060,Home Office,United States,Seattle,Washington,98105,West,FUR-TA-10004575,Furniture,Tables,Hon 5100 Series Wood Tables,2036.86,7,0,366.6348
-6/11/2020,8170,CA-2017-107174,Standard Class,AB-10060,Home Office,United States,Seattle,Washington,98105,West,FUR-CH-10003312,Furniture,Chairs,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,449.568,2,0.2,-73.0548
+6/11/2020,8170,CA-2017-107174,Standard Class,AB-10060,Home Office,United States,Seattle,Washington,98105,West,FUR-CH-10003312,Furniture,Chairs,Hon 2090 Â“Pillow SoftÂ” Series Mid Back Swivel/Tilt Chairs,449.568,2,0.2,-73.0548
 6/11/2020,8171,CA-2017-107174,Standard Class,AB-10060,Home Office,United States,Seattle,Washington,98105,West,TEC-AC-10001465,Technology,Accessories,SanDisk Cruzer 64 GB USB Flash Drive,108.96,3,0,32.688
 6/11/2020,8621,US-2017-119319,Second Class,LC-17050,Consumer,United States,Dallas,Texas,75217,Central,FUR-FU-10003878,Furniture,Furnishings,"Linden 10"" Round Wall Clock, Black",30.56,5,0.6,-19.864
 6/11/2020,8966,CA-2017-106691,Standard Class,CC-12370,Consumer,United States,Houston,Texas,77070,Central,OFF-BI-10000145,Office Supplies,Binders,Zipper Ring Binder Pockets,1.248,2,0.8,-1.9344
 6/11/2020,9482,CA-2017-150504,Standard Class,HG-14845,Consumer,United States,Dallas,Texas,75220,Central,OFF-ST-10000615,Office Supplies,Storage,"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",18.16,2,0.2,1.816
 7/11/2020,2074,CA-2017-122504,Second Class,DB-13270,Home Office,United States,Brentwood,California,94513,West,TEC-AC-10003289,Technology,Accessories,Anker Ultra-Slim Mini Bluetooth 3.0 Wireless Keyboard,59.97,3,0,13.7931
-7/11/2020,2075,CA-2017-122504,Second Class,DB-13270,Home Office,United States,Brentwood,California,94513,West,TEC-PH-10002468,Technology,Phones,"Plantronics CS 50-USB - headset - Convertible, Monaural",761.544,7,0.2,66.6351
-7/11/2020,2726,CA-2017-149888,Standard Class,EP-13915,Consumer,United States,Philadelphia,Pennsylvania,19120,East,TEC-PH-10003811,Technology,Phones,Jabra Supreme Plus Driver Edition Headset,359.97,5,0.4,-71.994
+7/11/2020,2075,CA-2017-122504,Second Class,DB-13270,Home Office,United States,Brentwood,California,94513,West,TEC-PH-10002468,Technology,Phones,"Plantronics CS 50-USB -Â headsetÂ - Convertible, Monaural",761.544,7,0.2,66.6351
+7/11/2020,2726,CA-2017-149888,Standard Class,EP-13915,Consumer,United States,Philadelphia,Pennsylvania,19120,East,TEC-PH-10003811,Technology,Phones,Jabra Supreme Plus Driver EditionÂ Headset,359.97,5,0.4,-71.994
 7/11/2020,2727,CA-2017-149888,Standard Class,EP-13915,Consumer,United States,Philadelphia,Pennsylvania,19120,East,FUR-TA-10000849,Furniture,Tables,Bevis Rectangular Conference Tables,350.352,4,0.4,-140.1408
 7/11/2020,3559,CA-2017-152737,Standard Class,TS-21505,Consumer,United States,San Francisco,California,94122,West,OFF-BI-10002982,Office Supplies,Binders,Avery Self-Adhesive Photo Pockets for Polaroid Photos,21.792,4,0.2,7.6272
 7/11/2020,3560,CA-2017-152737,Standard Class,TS-21505,Consumer,United States,San Francisco,California,94122,West,TEC-AC-10004975,Technology,Accessories,Plantronics Audio 995 Wireless Stereo Headset,439.8,4,0,145.134
@@ -2521,7 +2521,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 9/11/2020,2420,CA-2017-159597,Standard Class,MC-17590,Corporate,United States,Coachella,California,92236,West,OFF-ST-10002289,Office Supplies,Storage,"Safco Wire Cube Shelving System, For Use as 4 or 5 14"" Cubes, Black",63.56,2,0,3.178
 9/11/2020,2421,CA-2017-159597,Standard Class,MC-17590,Corporate,United States,Coachella,California,92236,West,TEC-AC-10004171,Technology,Accessories,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,99.99,1,0,43.9956
 9/11/2020,3182,CA-2017-152912,Second Class,BM-11650,Corporate,United States,Columbia,Maryland,21044,East,OFF-BI-10004728,Office Supplies,Binders,Wilson Jones Turn Tabs Binder Tool for Ring Binders,9.64,2,0,4.4344
-9/11/2020,3183,CA-2017-152912,Second Class,BM-11650,Corporate,United States,Columbia,Maryland,21044,East,TEC-AC-10004666,Technology,Accessories,Maxell iVDR EX 500GB Cartridge,826.62,3,0,355.4466
+9/11/2020,3183,CA-2017-152912,Second Class,BM-11650,Corporate,United States,Columbia,Maryland,21044,East,TEC-AC-10004666,Technology,Accessories,MaxellÂ iVDR EX 500GB Cartridge,826.62,3,0,355.4466
 9/11/2020,3184,CA-2017-152912,Second Class,BM-11650,Corporate,United States,Columbia,Maryland,21044,East,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,1633.14,9,0,473.6106
 9/11/2020,3185,CA-2017-152912,Second Class,BM-11650,Corporate,United States,Columbia,Maryland,21044,East,OFF-ST-10003208,Office Supplies,Storage,Adjustable Depth Letter/Legal Cart,544.38,3,0,157.8702
 9/11/2020,4611,US-2017-141852,Standard Class,JE-15745,Consumer,United States,Oceanside,California,92054,West,FUR-FU-10000023,Furniture,Furnishings,Eldon Wave Desk Accessories,47.12,8,0,20.7328
@@ -2532,7 +2532,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 10/11/2020,1365,US-2017-155425,First Class,AB-10600,Corporate,United States,Tucson,Arizona,85705,West,TEC-MA-10003183,Technology,Machines,DYMO CardScan Personal V9 Business Card Scanner,95.994,2,0.7,-63.996
 10/11/2020,1366,US-2017-155425,First Class,AB-10600,Corporate,United States,Tucson,Arizona,85705,West,TEC-AC-10001314,Technology,Accessories,Case Logic 2.4GHz Wireless Keyboard,239.952,6,0.2,-35.9928
 10/11/2020,1367,US-2017-155425,First Class,AB-10600,Corporate,United States,Tucson,Arizona,85705,West,TEC-PH-10002563,Technology,Phones,Adtran 1202752G1,201.584,2,0.2,15.1188
-10/11/2020,1368,US-2017-155425,First Class,AB-10600,Corporate,United States,Tucson,Arizona,85705,West,FUR-CH-10003312,Furniture,Chairs,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,899.136,4,0.2,-146.1096
+10/11/2020,1368,US-2017-155425,First Class,AB-10600,Corporate,United States,Tucson,Arizona,85705,West,FUR-CH-10003312,Furniture,Chairs,Hon 2090 Â“Pillow SoftÂ” Series Mid Back Swivel/Tilt Chairs,899.136,4,0.2,-146.1096
 10/11/2020,3218,CA-2017-104640,Standard Class,FH-14275,Corporate,United States,New York City,New York,10024,East,OFF-BI-10003925,Office Supplies,Binders,Fellowes PB300 Plastic Comb Binding Machine,931.176,3,0.2,314.2719
 10/11/2020,3219,CA-2017-104640,Standard Class,FH-14275,Corporate,United States,New York City,New York,10024,East,TEC-PH-10002200,Technology,Phones,Aastra 6757i CT Wireless VoIP phone,430.88,2,0,124.9552
 10/11/2020,3317,CA-2017-161739,Second Class,EB-13750,Corporate,United States,Round Rock,Texas,78664,Central,FUR-FU-10001468,Furniture,Furnishings,Tenex Antistatic Computer Chair Mats,341.96,5,0.6,-427.45
@@ -2574,7 +2574,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 12/11/2020,3136,CA-2017-164168,Standard Class,LS-16975,Home Office,United States,Dallas,Texas,75081,Central,OFF-ST-10002583,Office Supplies,Storage,Fellowes Neat Ideas Storage Cubes,77.952,3,0.2,-15.5904
 12/11/2020,3137,CA-2017-164168,Standard Class,LS-16975,Home Office,United States,Dallas,Texas,75081,Central,TEC-PH-10004908,Technology,Phones,Panasonic KX TS3282W Corded phone,67.992,1,0.2,8.499
 12/11/2020,3138,CA-2017-164168,Standard Class,LS-16975,Home Office,United States,Dallas,Texas,75081,Central,OFF-EN-10001219,Office Supplies,Envelopes,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",12.224,2,0.2,4.4312
-12/11/2020,3139,CA-2017-164168,Standard Class,LS-16975,Home Office,United States,Dallas,Texas,75081,Central,TEC-AC-10004568,Technology,Accessories,Maxell LTO Ultrium - 800 GB,44.784,2,0.2,-0.5598
+12/11/2020,3139,CA-2017-164168,Standard Class,LS-16975,Home Office,United States,Dallas,Texas,75081,Central,TEC-AC-10004568,Technology,Accessories,MaxellÂ LTO Ultrium - 800 GB,44.784,2,0.2,-0.5598
 12/11/2020,3140,CA-2017-164168,Standard Class,LS-16975,Home Office,United States,Dallas,Texas,75081,Central,FUR-FU-10001756,Furniture,Furnishings,"Eldon Expressions Desk Accessory, Wood Photo Frame, Mahogany",22.848,3,0.6,-17.7072
 12/11/2020,3472,CA-2017-122644,Standard Class,SF-20965,Corporate,United States,Columbus,Ohio,43229,East,OFF-PA-10003673,Office Supplies,Paper,Strathmore Photo Mount Cards,10.848,2,0.2,3.5256
 12/11/2020,3473,CA-2017-122644,Standard Class,SF-20965,Corporate,United States,Columbus,Ohio,43229,East,TEC-AC-10003614,Technology,Accessories,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 10/Pack",18.544,2,0.2,3.0134
@@ -2593,7 +2593,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 13-11-20,2628,US-2017-165344,First Class,SB-20290,Corporate,United States,Springfield,Ohio,45503,East,TEC-AC-10002399,Technology,Accessories,SanDisk Cruzer 32 GB USB Flash Drive,60.864,4,0.2,9.1296
 13-11-20,2629,US-2017-165344,First Class,SB-20290,Corporate,United States,Springfield,Ohio,45503,East,TEC-MA-10002210,Technology,Machines,Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop,652.995,7,0.7,-935.9595
 13-11-20,2630,US-2017-165344,First Class,SB-20290,Corporate,United States,Springfield,Ohio,45503,East,OFF-BI-10003196,Office Supplies,Binders,Accohide Poly Flexible Ring Binders,11.22,10,0.7,-7.48
-13-11-20,3700,CA-2017-160416,Second Class,AD-10180,Home Office,United States,Yonkers,New York,10701,East,TEC-AC-10004114,Technology,Accessories,KeyTronic 6101 Series - Keyboard - Black,163.96,4,0,70.5028
+13-11-20,3700,CA-2017-160416,Second Class,AD-10180,Home Office,United States,Yonkers,New York,10701,East,TEC-AC-10004114,Technology,Accessories,KeyTronicÂ 6101 Series -Â KeyboardÂ - Black,163.96,4,0,70.5028
 13-11-20,3783,CA-2017-165204,Second Class,MN-17935,Consumer,United States,Memphis,Tennessee,38109,South,OFF-PA-10003424,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",8.904,3,0.2,3.339
 13-11-20,3784,CA-2017-165204,Second Class,MN-17935,Consumer,United States,Memphis,Tennessee,38109,South,OFF-ST-10003716,Office Supplies,Storage,Tennsco Double-Tier Lockers,720.064,4,0.2,-63.0056
 13-11-20,4866,CA-2017-122490,Standard Class,TT-21070,Consumer,United States,Seattle,Washington,98103,West,FUR-CH-10001215,Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,2404.704,6,0.2,150.294
@@ -2630,7 +2630,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 16-11-20,5269,US-2017-114657,Standard Class,MH-18115,Home Office,United States,Yonkers,New York,10701,East,TEC-MA-10003173,Technology,Machines,Hewlett-Packard 300S Scientific Calculator,52.44,4,0,24.1224
 16-11-20,6541,US-2017-107888,First Class,CC-12220,Consumer,United States,Seattle,Washington,98103,West,OFF-PA-10001363,Office Supplies,Paper,Xerox 1933,73.68,6,0,34.6296
 16-11-20,6542,US-2017-107888,First Class,CC-12220,Consumer,United States,Seattle,Washington,98103,West,FUR-FU-10003394,Furniture,Furnishings,"Tenex ""The Solids"" Textured Chair Mats",139.92,2,0,23.7864
-16-11-20,6543,US-2017-107888,First Class,CC-12220,Consumer,United States,Seattle,Washington,98103,West,TEC-PH-10003171,Technology,Phones,Plantronics Encore H101 Dual Earpieces Headset,107.88,3,0.2,10.788
+16-11-20,6543,US-2017-107888,First Class,CC-12220,Consumer,United States,Seattle,Washington,98103,West,TEC-PH-10003171,Technology,Phones,Plantronics Encore H101 Dual EarpiecesÂ Headset,107.88,3,0.2,10.788
 16-11-20,6544,US-2017-107888,First Class,CC-12220,Consumer,United States,Seattle,Washington,98103,West,OFF-ST-10003123,Office Supplies,Storage,Fellowes Bases and Tops For Staxonsteel/High-Stak Systems,33.29,1,0,7.9896
 16-11-20,7492,US-2017-118598,Same Day,CM-12190,Consumer,United States,Utica,New York,13501,East,TEC-PH-10002583,Technology,Phones,iOttie HLCRIO102 Car Mount,119.94,6,0,5.997
 16-11-20,7589,CA-2017-122945,Standard Class,MB-18085,Consumer,United States,Roseville,California,95661,West,FUR-FU-10001196,Furniture,Furnishings,DAX Cubicle Frames - 8x10,17.31,3,0,5.193
@@ -2644,7 +2644,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 17-11-20,2846,CA-2017-138163,First Class,XP-21865,Consumer,United States,Everett,Massachusetts,2149,East,OFF-AR-10001958,Office Supplies,Art,Stanley Bostitch Contemporary Electric Pencil Sharpeners,50.94,3,0,14.2632
 17-11-20,3024,CA-2017-124674,Standard Class,JB-16000,Consumer,United States,Brownsville,Texas,78521,Central,FUR-BO-10002202,Furniture,Bookcases,"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors",327.7328,2,0.32,-14.4588
 17-11-20,4191,CA-2017-166709,Standard Class,HL-15040,Consumer,United States,Newark,Delaware,19711,East,TEC-CO-10004722,Technology,Copiers,Canon imageCLASS 2200 Advanced Copier,10499.97,3,0,5039.9856
-17-11-20,5038,CA-2017-141719,Second Class,EG-13900,Consumer,United States,Naperville,Illinois,60540,Central,TEC-AC-10003610,Technology,Accessories,Logitech Illuminated - Keyboard,239.96,5,0.2,83.986
+17-11-20,5038,CA-2017-141719,Second Class,EG-13900,Consumer,United States,Naperville,Illinois,60540,Central,TEC-AC-10003610,Technology,Accessories,LogitechÂ Illuminated - Keyboard,239.96,5,0.2,83.986
 17-11-20,6505,CA-2017-128265,Second Class,VW-21775,Corporate,United States,New York City,New York,10011,East,OFF-ST-10000142,Office Supplies,Storage,Deluxe Rollaway Locking File with Drawer,1247.64,3,0,349.3392
 17-11-20,7120,CA-2017-118122,Standard Class,GG-14650,Corporate,United States,Seattle,Washington,98103,West,OFF-BI-10002103,Office Supplies,Binders,"Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl",13.904,2,0.2,4.5188
 17-11-20,7318,CA-2017-158120,Standard Class,KH-16330,Corporate,United States,Hillsboro,Oregon,97123,West,OFF-PA-10003205,Office Supplies,Paper,"Wirebound Message Forms, Four 2 3/4 x 5 Forms per Page, Pink Paper",19.608,3,0.2,6.6177
@@ -2657,7 +2657,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 17-11-20,9988,CA-2017-163629,Standard Class,RA-19885,Corporate,United States,Athens,Georgia,30605,South,TEC-AC-10001539,Technology,Accessories,Logitech G430 Surround Sound Gaming Headset with Dolby 7.1 Technology,79.99,1,0,28.7964
 17-11-20,9989,CA-2017-163629,Standard Class,RA-19885,Corporate,United States,Athens,Georgia,30605,South,TEC-PH-10004006,Technology,Phones,Panasonic KX - TS880B Telephone,206.1,5,0,55.647
 18-11-20,1653,US-2017-132444,First Class,CD-12280,Consumer,United States,Seattle,Washington,98105,West,OFF-ST-10003442,Office Supplies,Storage,Eldon Portable Mobile Manager,169.68,6,0,45.8136
-18-11-20,1654,US-2017-132444,First Class,CD-12280,Consumer,United States,Seattle,Washington,98105,West,TEC-AC-10003832,Technology,Accessories,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,132.52,4,0,54.3332
+18-11-20,1654,US-2017-132444,First Class,CD-12280,Consumer,United States,Seattle,Washington,98105,West,TEC-AC-10003832,Technology,Accessories,ImationÂ 16GB Mini TravelDrive USB 2.0Â Flash Drive,132.52,4,0,54.3332
 18-11-20,1655,US-2017-132444,First Class,CD-12280,Consumer,United States,Seattle,Washington,98105,West,OFF-FA-10000611,Office Supplies,Fasteners,Binder Clips by OIC,2.96,2,0,1.4208
 18-11-20,1656,US-2017-132444,First Class,CD-12280,Consumer,United States,Seattle,Washington,98105,West,OFF-BI-10001116,Office Supplies,Binders,"Wilson Jones 1"" Hanging DublLock Ring Binders",8.448,2,0.2,2.9568
 18-11-20,1657,US-2017-132444,First Class,CD-12280,Consumer,United States,Seattle,Washington,98105,West,OFF-ST-10000563,Office Supplies,Storage,Fellowes Bankers Box Stor/Drawer Steel Plus,95.94,3,0,9.594
@@ -2745,7 +2745,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 23-11-20,3554,CA-2017-107832,Second Class,FH-14275,Corporate,United States,Philadelphia,Pennsylvania,19120,East,OFF-BI-10001658,Office Supplies,Binders,GBC Standard Therm-A-Bind Covers,7.476,1,0.7,-5.9808
 23-11-20,4773,CA-2017-119746,Standard Class,CM-12385,Consumer,United States,Chicago,Illinois,60610,Central,FUR-FU-10004909,Furniture,Furnishings,Contemporary Wood/Metal Frame,6.464,1,0.6,-4.04
 23-11-20,4774,CA-2017-119746,Standard Class,CM-12385,Consumer,United States,Chicago,Illinois,60610,Central,OFF-LA-10001613,Office Supplies,Labels,Avery File Folder Labels,11.52,5,0.2,4.176
-23-11-20,4775,CA-2017-119746,Standard Class,CM-12385,Consumer,United States,Chicago,Illinois,60610,Central,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IP Telephone,222.384,2,0.2,16.6788
+23-11-20,4775,CA-2017-119746,Standard Class,CM-12385,Consumer,United States,Chicago,Illinois,60610,Central,TEC-PH-10004447,Technology,Phones,Toshiba IPT2010-SD IPÂ Telephone,222.384,2,0.2,16.6788
 23-11-20,6303,CA-2017-166919,Standard Class,AH-10210,Consumer,United States,Dallas,Texas,75220,Central,TEC-PH-10001305,Technology,Phones,Panasonic KX TS208W Corded phone,195.96,5,0.2,19.596
 23-11-20,8428,CA-2017-167017,First Class,DC-12850,Consumer,United States,Roseville,Michigan,48066,Central,OFF-SU-10001935,Office Supplies,Supplies,Staple remover,4.36,2,0,0.1744
 23-11-20,8801,CA-2017-148992,Standard Class,CS-12250,Corporate,United States,Chicago,Illinois,60623,Central,OFF-PA-10004285,Office Supplies,Paper,Xerox 1959,10.688,2,0.2,3.7408
@@ -2768,10 +2768,10 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 24-11-20,4469,CA-2017-168641,Standard Class,KA-16525,Consumer,United States,New York City,New York,10035,East,FUR-BO-10000780,Furniture,Bookcases,O'Sullivan Plantations 2-Door Library in Landvery Oak,321.568,2,0.2,-16.0784
 24-11-20,4470,CA-2017-168641,Standard Class,KA-16525,Consumer,United States,New York City,New York,10035,East,OFF-PA-10001972,Office Supplies,Paper,Xerox 214,12.96,2,0,6.2208
 24-11-20,4765,CA-2017-123701,First Class,PG-18820,Consumer,United States,San Francisco,California,94110,West,OFF-AR-10001860,Office Supplies,Art,BIC Liqua Brite Liner,27.76,4,0,9.9936
-24-11-20,4870,CA-2017-131366,Standard Class,SC-20440,Corporate,United States,Lancaster,Pennsylvania,17602,East,TEC-PH-10003437,Technology,Phones,Blue Parrot B250XT Professional Grade Wireless Bluetooth Headset with,89.988,2,0.4,-14.998
+24-11-20,4870,CA-2017-131366,Standard Class,SC-20440,Corporate,United States,Lancaster,Pennsylvania,17602,East,TEC-PH-10003437,Technology,Phones,Blue Parrot B250XT Professional Grade Wireless BluetoothÂ HeadsetÂ with,89.988,2,0.4,-14.998
 24-11-20,4871,CA-2017-131366,Standard Class,SC-20440,Corporate,United States,Lancaster,Pennsylvania,17602,East,OFF-PA-10000675,Office Supplies,Paper,Xerox 1919,229.544,7,0.2,83.2097
 24-11-20,8117,CA-2017-105543,Same Day,BG-11695,Corporate,United States,Garden City,Kansas,67846,Central,OFF-ST-10003123,Office Supplies,Storage,Fellowes Bases and Tops For Staxonsteel/High-Stak Systems,33.29,1,0,7.9896
-24-11-20,9123,CA-2017-162250,Same Day,PR-18880,Consumer,United States,San Francisco,California,94109,West,OFF-PA-10002137,Office Supplies,Paper,"Southworth 100% Résumé Paper, 24lb.",7.78,1,0,3.501
+24-11-20,9123,CA-2017-162250,Same Day,PR-18880,Consumer,United States,San Francisco,California,94109,West,OFF-PA-10002137,Office Supplies,Paper,"Southworth 100% RÃ©sumÃ© Paper, 24lb.",7.78,1,0,3.501
 24-11-20,9217,CA-2017-103765,Standard Class,JG-15310,Corporate,United States,Odessa,Texas,79762,Central,OFF-AP-10002311,Office Supplies,Appliances,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",13.762,1,0.8,-24.7716
 24-11-20,9265,US-2017-128118,Standard Class,MY-17380,Corporate,United States,Memphis,Tennessee,38109,South,OFF-BI-10000216,Office Supplies,Binders,"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",11.673,3,0.7,-7.782
 24-11-20,9266,US-2017-128118,Standard Class,MY-17380,Corporate,United States,Memphis,Tennessee,38109,South,OFF-EN-10003448,Office Supplies,Envelopes,"Peel & Seel Recycled Catalog Envelopes, Brown",64.848,7,0.2,24.318
@@ -2786,7 +2786,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 25-11-20,6979,CA-2017-155159,Second Class,DL-13315,Consumer,United States,Atlanta,Georgia,30318,South,OFF-PA-10003724,Office Supplies,Paper,"Wirebound Message Book, 4 per Page",48.87,9,0,23.9463
 25-11-20,8661,CA-2017-124765,Standard Class,HZ-14950,Consumer,United States,Fort Lauderdale,Florida,33311,South,FUR-BO-10003965,Furniture,Bookcases,O'Sullivan Manor Hill 2-Door Library in Brianna Oak,723.92,5,0.2,-81.441
 25-11-20,8684,CA-2017-101665,Standard Class,TZ-21580,Consumer,United States,San Francisco,California,94122,West,OFF-AR-10002335,Office Supplies,Art,DIXON Oriole Pencils,5.16,2,0,1.3416
-25-11-20,8959,CA-2017-150266,Standard Class,RO-19780,Consumer,United States,Houston,Texas,77070,Central,TEC-PH-10003437,Technology,Phones,Blue Parrot B250XT Professional Grade Wireless Bluetooth Headset with,299.96,5,0.2,37.495
+25-11-20,8959,CA-2017-150266,Standard Class,RO-19780,Consumer,United States,Houston,Texas,77070,Central,TEC-PH-10003437,Technology,Phones,Blue Parrot B250XT Professional Grade Wireless BluetoothÂ HeadsetÂ with,299.96,5,0.2,37.495
 25-11-20,8960,CA-2017-150266,Standard Class,RO-19780,Consumer,United States,Houston,Texas,77070,Central,OFF-AP-10002867,Office Supplies,Appliances,Fellowes Command Center 5-outlet power strip,67.84,5,0.8,-179.776
 25-11-20,8961,CA-2017-150266,Standard Class,RO-19780,Consumer,United States,Houston,Texas,77070,Central,FUR-CH-10002126,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,853.93,5,0.3,-24.398
 25-11-20,8962,CA-2017-150266,Standard Class,RO-19780,Consumer,United States,Houston,Texas,77070,Central,OFF-AR-10001761,Office Supplies,Art,Avery Hi-Liter Smear-Safe Highlighters,18.688,4,0.2,3.7376
@@ -2844,7 +2844,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 30-11-20,5066,CA-2017-142090,Standard Class,SC-20380,Consumer,United States,Burlington,North Carolina,27217,South,TEC-AC-10002001,Technology,Accessories,Logitech Wireless Gaming Headset G930,383.976,3,0.2,81.5949
 30-11-20,5067,CA-2017-142090,Standard Class,SC-20380,Consumer,United States,Burlington,North Carolina,27217,South,FUR-TA-10001889,Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,1781.682,7,0.4,-653.2834
 30-11-20,5585,CA-2017-105333,Standard Class,VP-21730,Home Office,United States,New York City,New York,10011,East,OFF-ST-10002182,Office Supplies,Storage,"Iris 3-Drawer Stacking Bin, Black",83.56,4,0,1.6712
-30-11-20,5586,CA-2017-105333,Standard Class,VP-21730,Home Office,United States,New York City,New York,10011,East,TEC-PH-10001468,Technology,Phones,Panasonic Business Telephones KX-T7736,546.06,3,0,163.818
+30-11-20,5586,CA-2017-105333,Standard Class,VP-21730,Home Office,United States,New York City,New York,10011,East,TEC-PH-10001468,Technology,Phones,Panasonic BusinessÂ TelephonesÂ KX-T7736,546.06,3,0,163.818
 30-11-20,5587,CA-2017-105333,Standard Class,VP-21730,Home Office,United States,New York City,New York,10011,East,OFF-ST-10001809,Office Supplies,Storage,Fellowes Officeware Wire Shelving,269.49,3,0,5.3898
 30-11-20,6300,CA-2017-107314,First Class,MZ-17335,Home Office,United States,San Francisco,California,94109,West,FUR-FU-10003489,Furniture,Furnishings,Contemporary Borderless Frame,25.83,3,0,9.5571
 30-11-20,6936,CA-2017-137365,Second Class,BP-11095,Corporate,United States,El Paso,Texas,79907,Central,TEC-AC-10001767,Technology,Accessories,SanDisk Ultra 64 GB MicroSDHC Class 10 Memory Card,95.976,3,0.2,-10.7973
@@ -2861,7 +2861,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 1/12/2020,583,CA-2017-145233,Standard Class,DV-13465,Consumer,United States,Denver,Colorado,80219,West,TEC-PH-10000586,Technology,Phones,AT&T SB67148 SynJ,105.584,2,0.2,9.2386
 1/12/2020,584,CA-2017-145233,Standard Class,DV-13465,Consumer,United States,Denver,Colorado,80219,West,OFF-AP-10000358,Office Supplies,Appliances,Fellowes Basic Home/Office Series Surge Protectors,31.152,3,0.2,3.5046
 1/12/2020,585,CA-2017-145233,Standard Class,DV-13465,Consumer,United States,Denver,Colorado,80219,West,OFF-BI-10002764,Office Supplies,Binders,Recycled Pressboard Report Cover with Reinforced Top Hinge,6.783,7,0.7,-4.7481
-1/12/2020,586,CA-2017-145233,Standard Class,DV-13465,Consumer,United States,Denver,Colorado,80219,West,TEC-PH-10001254,Technology,Phones,Jabra BIZ 2300 Duo QD Duo Corded Headset,406.368,4,0.2,30.4776
+1/12/2020,586,CA-2017-145233,Standard Class,DV-13465,Consumer,United States,Denver,Colorado,80219,West,TEC-PH-10001254,Technology,Phones,Jabra BIZ 2300 Duo QD Duo CordedÂ Headset,406.368,4,0.2,30.4776
 1/12/2020,2125,CA-2017-144862,Standard Class,EH-14005,Home Office,United States,Philadelphia,Pennsylvania,19143,East,OFF-EN-10003040,Office Supplies,Envelopes,Quality Park Security Envelopes,104.68,5,0.2,35.3295
 1/12/2020,2126,CA-2017-144862,Standard Class,EH-14005,Home Office,United States,Philadelphia,Pennsylvania,19143,East,TEC-PH-10000923,Technology,Phones,"Belkin SportFit Armband For iPhone 5s/5c, Fuchsia",62.958,7,0.4,9.4437
 1/12/2020,3244,CA-2017-113355,Standard Class,SJ-20215,Consumer,United States,Grand Prairie,Texas,75051,Central,TEC-PH-10004912,Technology,Phones,Cisco SPA112 2 Port Phone Adapter,219.8,5,0.2,24.7275
@@ -2897,7 +2897,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 2/12/2020,2353,CA-2017-109701,Same Day,AM-10360,Corporate,United States,Los Angeles,California,90032,West,OFF-AR-10001868,Office Supplies,Art,Prang Dustless Chalk Sticks,10.08,6,0,5.04
 2/12/2020,2513,CA-2017-155089,Standard Class,DB-12910,Home Office,United States,Tampa,Florida,33614,South,OFF-BI-10002429,Office Supplies,Binders,"Premier Elliptical Ring Binder, Black",45.66,5,0.7,-33.484
 2/12/2020,4498,CA-2017-155075,Standard Class,GW-14605,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-BI-10003650,Office Supplies,Binders,GBC DocuBind 300 Electric Binding Machine,631.176,4,0.7,-462.8624
-2/12/2020,5531,CA-2017-160885,Standard Class,JK-16090,Consumer,United States,Omaha,Nebraska,68104,Central,TEC-PH-10001795,Technology,Phones,ClearOne CHATAttach 160 - speaker phone,2479.96,4,0,743.988
+2/12/2020,5531,CA-2017-160885,Standard Class,JK-16090,Consumer,United States,Omaha,Nebraska,68104,Central,TEC-PH-10001795,Technology,Phones,ClearOne CHATAttach 160 -Â speaker phone,2479.96,4,0,743.988
 2/12/2020,6270,CA-2017-102379,Standard Class,BB-11545,Corporate,United States,Oakland,California,94601,West,TEC-PH-10001448,Technology,Phones,Anker Astro 15000mAh USB Portable Charger,39.992,1,0.2,-7.9984
 2/12/2020,6271,CA-2017-102379,Standard Class,BB-11545,Corporate,United States,Oakland,California,94601,West,FUR-CH-10004983,Furniture,Chairs,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,1159.056,9,0.2,43.4646
 2/12/2020,6272,CA-2017-102379,Standard Class,BB-11545,Corporate,United States,Oakland,California,94601,West,OFF-AR-10004022,Office Supplies,Art,Panasonic KP-380BK Classic Electric Pencil Sharpener,179.9,5,0,44.975
@@ -2956,8 +2956,8 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 4/12/2020,8521,CA-2017-118003,Standard Class,DO-13645,Consumer,United States,Paterson,New Jersey,7501,East,FUR-CH-10004860,Furniture,Chairs,Global Low Back Tilter Chair,302.94,3,0,18.1764
 4/12/2020,9071,CA-2017-147550,First Class,KE-16420,Corporate,United States,Philadelphia,Pennsylvania,19134,East,FUR-FU-10001918,Furniture,Furnishings,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,11.352,3,0.2,2.6961
 5/12/2020,674,CA-2017-130351,First Class,RB-19570,Consumer,United States,Columbus,Indiana,47201,Central,OFF-AP-10004532,Office Supplies,Appliances,Kensington 6 Outlet Guardian Standard Surge Protector,61.44,3,0,16.5888
-5/12/2020,675,CA-2017-130351,First Class,RB-19570,Consumer,United States,Columbus,Indiana,47201,Central,OFF-PA-10002137,Office Supplies,Paper,"Southworth 100% Résumé Paper, 24lb.",38.9,5,0,17.505
-5/12/2020,676,CA-2017-130351,First Class,RB-19570,Consumer,United States,Columbus,Indiana,47201,Central,TEC-AC-10003832,Technology,Accessories,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,99.39,3,0,40.7499
+5/12/2020,675,CA-2017-130351,First Class,RB-19570,Consumer,United States,Columbus,Indiana,47201,Central,OFF-PA-10002137,Office Supplies,Paper,"Southworth 100% RÃ©sumÃ© Paper, 24lb.",38.9,5,0,17.505
+5/12/2020,676,CA-2017-130351,First Class,RB-19570,Consumer,United States,Columbus,Indiana,47201,Central,TEC-AC-10003832,Technology,Accessories,ImationÂ 16GB Mini TravelDrive USB 2.0Â Flash Drive,99.39,3,0,40.7499
 5/12/2020,1925,CA-2017-126865,Second Class,NP-18325,Consumer,United States,San Diego,California,92024,West,OFF-PA-10003039,Office Supplies,Paper,Xerox 1960,92.94,3,0,41.823
 5/12/2020,2235,CA-2017-104066,Standard Class,QJ-19255,Corporate,United States,Burlington,Vermont,5408,East,TEC-AC-10001013,Technology,Accessories,Logitech ClearChat Comfort/USB Headset H390,205.03,7,0,67.6599
 5/12/2020,3179,CA-2017-105235,Standard Class,SM-20950,Corporate,United States,New York City,New York,10011,East,FUR-FU-10001487,Furniture,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",20.94,3,0,6.0726
@@ -3001,7 +3001,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 8/12/2020,3432,CA-2017-148264,First Class,LF-17185,Consumer,United States,Inglewood,California,90301,West,FUR-FU-10002703,Furniture,Furnishings,"Tenex Traditional Chairmats for Hard Floors, Average Lip, 36"" x 48""",128.9,2,0,15.468
 8/12/2020,3433,CA-2017-148264,First Class,LF-17185,Consumer,United States,Inglewood,California,90301,West,OFF-PA-10003651,Office Supplies,Paper,Xerox 1968,60.12,9,0,28.8576
 8/12/2020,4953,CA-2017-117926,Second Class,AS-10225,Corporate,United States,San Francisco,California,94109,West,OFF-AP-10002670,Office Supplies,Appliances,Belkin 8-Outlet Premiere SurgeMaster II Surge Protectors,69.48,1,0,20.844
-8/12/2020,5408,CA-2017-108854,Standard Class,DM-13345,Corporate,United States,San Francisco,California,94109,West,OFF-PA-10003022,Office Supplies,Paper,Standard Line “While You Were Out” Hardbound Telephone Message Book,87.92,4,0,40.4432
+8/12/2020,5408,CA-2017-108854,Standard Class,DM-13345,Corporate,United States,San Francisco,California,94109,West,OFF-PA-10003022,Office Supplies,Paper,Standard Line Â“While You Were OutÂ” Hardbound Telephone Message Book,87.92,4,0,40.4432
 8/12/2020,5409,CA-2017-108854,Standard Class,DM-13345,Corporate,United States,San Francisco,California,94109,West,OFF-BI-10002854,Office Supplies,Binders,"Performers Binder/Pad Holder, Black",22.424,1,0.2,8.409
 8/12/2020,5410,CA-2017-108854,Standard Class,DM-13345,Corporate,United States,San Francisco,California,94109,West,OFF-BI-10001670,Office Supplies,Binders,Vinyl Sectional Post Binders,90.48,3,0.2,33.93
 8/12/2020,5411,CA-2017-108854,Standard Class,DM-13345,Corporate,United States,San Francisco,California,94109,West,OFF-ST-10001837,Office Supplies,Storage,"SAFCO Mobile Desk Side File, Wire Frame",42.76,1,0,11.1176
@@ -3009,7 +3009,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 8/12/2020,5729,CA-2017-117324,Standard Class,JP-15520,Consumer,United States,Madison,Wisconsin,53711,Central,OFF-AP-10003590,Office Supplies,Appliances,Hoover WindTunnel Plus Canister Vacuum,1089.75,3,0,305.13
 8/12/2020,5730,CA-2017-117324,Standard Class,JP-15520,Consumer,United States,Madison,Wisconsin,53711,Central,OFF-LA-10003510,Office Supplies,Labels,"Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",61.06,2,0,28.0876
 8/12/2020,5731,CA-2017-117324,Standard Class,JP-15520,Consumer,United States,Madison,Wisconsin,53711,Central,FUR-BO-10003159,Furniture,Bookcases,"Sauder Camden County Collection Libraries, Planked Cherry Finish",459.92,4,0,41.3928
-8/12/2020,5732,CA-2017-117324,Standard Class,JP-15520,Consumer,United States,Madison,Wisconsin,53711,Central,OFF-PA-10002713,Office Supplies,Paper,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",27.52,4,0,12.6592
+8/12/2020,5732,CA-2017-117324,Standard Class,JP-15520,Consumer,United States,Madison,Wisconsin,53711,Central,OFF-PA-10002713,Office Supplies,Paper,"Adams Phone Message Book, 200 Message Capacity, 8 1/16Â” x 11Â”",27.52,4,0,12.6592
 8/12/2020,7821,CA-2017-152436,Second Class,CW-11905,Home Office,United States,Cranston,Rhode Island,2920,East,OFF-ST-10000036,Office Supplies,Storage,"Recycled Data-Pak for Archival Bound Computer Printouts, 12-1/2 x 12-1/2 x 16",592.74,6,0,160.0398
 8/12/2020,8109,US-2017-167570,Standard Class,EG-13900,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-CH-10003396,Furniture,Chairs,Global Deluxe Steno Chair,215.544,4,0.3,-58.5048
 8/12/2020,8739,US-2017-131961,First Class,MJ-17740,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-AR-10004441,Office Supplies,Art,BIC Brite Liner Highlighters,13.248,4,0.2,3.6432
@@ -3051,7 +3051,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 10/12/2020,1059,CA-2017-167150,Standard Class,BP-11185,Corporate,United States,San Diego,California,92037,West,OFF-BI-10001597,Office Supplies,Binders,"Wilson Jones Ledger-Size, Piano-Hinge Binder, 2"", Blue",65.568,2,0.2,22.9488
 10/12/2020,1318,CA-2017-157651,Standard Class,HA-14920,Consumer,United States,Philadelphia,Pennsylvania,19120,East,TEC-AC-10003116,Technology,Accessories,Memorex Froggy Flash Drive 8 GB,14.2,1,0.2,3.3725
 10/12/2020,1509,CA-2017-108294,Same Day,LS-16975,Home Office,United States,Omaha,Nebraska,68104,Central,OFF-BI-10004965,Office Supplies,Binders,Ibico Covers for Plastic or Wire Binding Elements,34.5,3,0,15.525
-10/12/2020,1517,CA-2017-148446,Second Class,MC-17845,Consumer,United States,North Las Vegas,Nevada,89031,West,FUR-TA-10004256,Furniture,Tables,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,1669.6,4,0,116.872
+10/12/2020,1517,CA-2017-148446,Second Class,MC-17845,Consumer,United States,North Las Vegas,Nevada,89031,West,FUR-TA-10004256,Furniture,Tables,Bretford Â“Just In TimeÂ” Height-Adjustable Multi-Task Work Tables,1669.6,4,0,116.872
 10/12/2020,1688,CA-2017-143798,First Class,AW-10840,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-10000788,Office Supplies,Paper,Xerox 210,10.368,2,0.2,3.6288
 10/12/2020,1689,CA-2017-143798,First Class,AW-10840,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-10004306,Furniture,Furnishings,Electrix Halogen Magnifier Lamp,310.88,2,0.2,23.316
 10/12/2020,2336,CA-2017-152695,Same Day,CC-12220,Consumer,United States,Fairfield,Connecticut,6824,East,OFF-EN-10004030,Office Supplies,Envelopes,Convenience Packs of Business Envelopes,10.86,3,0,5.1042
@@ -3069,7 +3069,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 10/12/2020,9410,US-2017-110149,First Class,WB-21850,Consumer,United States,Philadelphia,Pennsylvania,19143,East,OFF-BI-10000014,Office Supplies,Binders,Heavy-Duty E-Z-D Binders,3.273,1,0.7,-2.5093
 10/12/2020,9411,US-2017-110149,First Class,WB-21850,Consumer,United States,Philadelphia,Pennsylvania,19143,East,FUR-FU-10001475,Furniture,Furnishings,"Contract Clock, 14"", Brown",87.92,5,0.2,15.386
 11/12/2020,390,CA-2017-101798,Standard Class,MV-18190,Consumer,United States,New York City,New York,10009,East,OFF-BI-10000050,Office Supplies,Binders,"Angle-D Binders with Locking Rings, Label Holders",23.36,4,0.2,7.884
-11/12/2020,391,CA-2017-101798,Standard Class,MV-18190,Consumer,United States,New York City,New York,10009,East,TEC-AC-10001998,Technology,Accessories,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,39.98,2,0,13.5932
+11/12/2020,391,CA-2017-101798,Standard Class,MV-18190,Consumer,United States,New York City,New York,10009,East,TEC-AC-10001998,Technology,Accessories,LogitechÂ LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,39.98,2,0,13.5932
 11/12/2020,1516,US-2017-160759,Standard Class,AI-10855,Consumer,United States,Philadelphia,Pennsylvania,19120,East,FUR-CH-10002961,Furniture,Chairs,"Leather Task Chair, Black",63.686,1,0.3,-9.098
 11/12/2020,4358,CA-2017-162565,Same Day,RR-19315,Consumer,United States,Aurora,Illinois,60505,Central,OFF-PA-10001937,Office Supplies,Paper,Xerox 21,10.368,2,0.2,3.6288
 11/12/2020,4359,CA-2017-162565,Same Day,RR-19315,Consumer,United States,Aurora,Illinois,60505,Central,FUR-FU-10004306,Furniture,Furnishings,Electrix Halogen Magnifier Lamp,77.72,1,0.6,-66.062
@@ -3128,7 +3128,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 16-12-20,6552,CA-2017-161578,Second Class,RB-19465,Home Office,United States,Los Angeles,California,90036,West,OFF-PA-10002986,Office Supplies,Paper,Xerox 1898,13.36,2,0,6.4128
 16-12-20,6553,CA-2017-161578,Second Class,RB-19465,Home Office,United States,Los Angeles,California,90036,West,OFF-ST-10002289,Office Supplies,Storage,"Safco Wire Cube Shelving System, For Use as 4 or 5 14"" Cubes, Black",158.9,5,0,7.945
 16-12-20,9045,CA-2017-137463,Second Class,KM-16225,Corporate,United States,Sunnyvale,California,94086,West,OFF-BI-10003196,Office Supplies,Binders,Accohide Poly Flexible Ring Binders,5.984,2,0.2,2.244
-16-12-20,9046,CA-2017-137463,Second Class,KM-16225,Corporate,United States,Sunnyvale,California,94086,West,TEC-AC-10000358,Technology,Accessories,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,189.95,5,0,45.588
+16-12-20,9046,CA-2017-137463,Second Class,KM-16225,Corporate,United States,Sunnyvale,California,94086,West,TEC-AC-10000358,Technology,Accessories,ImationÂ SecureÂ DriveÂ + Hardware Encrypted USBÂ flash driveÂ - 16 GB,189.95,5,0,45.588
 16-12-20,9047,CA-2017-137463,Second Class,KM-16225,Corporate,United States,Sunnyvale,California,94086,West,TEC-AC-10000057,Technology,Accessories,Microsoft Natural Ergonomic Keyboard 4000,149.95,5,0,31.4895
 16-12-20,9048,CA-2017-137463,Second Class,KM-16225,Corporate,United States,Sunnyvale,California,94086,West,OFF-AR-10001988,Office Supplies,Art,Bulldog Table or Wall-Mount Pencil Sharpener,29.95,5,0,8.6855
 16-12-20,9049,CA-2017-137463,Second Class,KM-16225,Corporate,United States,Sunnyvale,California,94086,West,OFF-LA-10003498,Office Supplies,Labels,Avery 475,44.4,3,0,22.2
@@ -3147,7 +3147,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 17-12-20,9378,CA-2017-155362,Standard Class,DP-13105,Corporate,United States,Eau Claire,Wisconsin,54703,Central,OFF-ST-10001031,Office Supplies,Storage,Adjustable Personal File Tote,32.56,2,0,8.4656
 18-12-20,1114,CA-2017-140585,Second Class,RA-19915,Consumer,United States,Encinitas,California,92024,West,OFF-BI-10003364,Office Supplies,Binders,Binding Machine Supplies,46.672,2,0.2,16.3352
 18-12-20,1115,CA-2017-140585,Second Class,RA-19915,Consumer,United States,Encinitas,California,92024,West,FUR-BO-10002206,Furniture,Bookcases,"Bush Saratoga Collection 5-Shelf Bookcase, Hanover Cherry, *Special Order",119.833,1,0.15,-12.6882
-18-12-20,1116,CA-2017-140585,Second Class,RA-19915,Consumer,United States,Encinitas,California,92024,West,TEC-AC-10003610,Technology,Accessories,Logitech Illuminated - Keyboard,119.98,2,0,57.5904
+18-12-20,1116,CA-2017-140585,Second Class,RA-19915,Consumer,United States,Encinitas,California,92024,West,TEC-AC-10003610,Technology,Accessories,LogitechÂ Illuminated - Keyboard,119.98,2,0,57.5904
 18-12-20,1249,CA-2017-115602,Standard Class,DJ-13630,Consumer,United States,New York City,New York,10009,East,OFF-AR-10002280,Office Supplies,Art,Staples in misc. colors,38.82,6,0,17.469
 18-12-20,1250,CA-2017-115602,Standard Class,DJ-13630,Consumer,United States,New York City,New York,10009,East,FUR-CH-10001708,Furniture,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,1141.938,9,0.1,139.5702
 18-12-20,1251,CA-2017-115602,Standard Class,DJ-13630,Consumer,United States,New York City,New York,10009,East,OFF-AP-10000891,Office Supplies,Appliances,Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,1704.56,13,0,511.368
@@ -3190,7 +3190,7 @@ Order Date,Row ID,Order ID,Ship Mode,Customer ID,Segment,Country,City,State,Post
 22-12-20,1893,CA-2017-145310,Second Class,JP-15520,Consumer,United States,Port Orange,Florida,32127,South,OFF-EN-10002621,Office Supplies,Envelopes,Staple envelope,7.824,1,0.2,2.934
 22-12-20,2056,CA-2017-120376,First Class,TP-21130,Consumer,United States,Detroit,Michigan,48227,Central,TEC-AC-10001114,Technology,Accessories,Microsoft Wireless Mobile Mouse 4000,199.95,5,0,63.984
 22-12-20,2057,CA-2017-120376,First Class,TP-21130,Consumer,United States,Detroit,Michigan,48227,Central,FUR-CH-10002335,Furniture,Chairs,Hon GuestStacker Chair,1586.69,7,0,412.5394
-22-12-20,2058,CA-2017-120376,First Class,TP-21130,Consumer,United States,Detroit,Michigan,48227,Central,TEC-AC-10000844,Technology,Accessories,Logitech Gaming G510s - Keyboard,84.99,1,0,30.5964
+22-12-20,2058,CA-2017-120376,First Class,TP-21130,Consumer,United States,Detroit,Michigan,48227,Central,TEC-AC-10000844,Technology,Accessories,LogitechÂ Gaming G510s - Keyboard,84.99,1,0,30.5964
 22-12-20,2059,CA-2017-120376,First Class,TP-21130,Consumer,United States,Detroit,Michigan,48227,Central,FUR-TA-10004534,Furniture,Tables,Bevis 44 x 96 Conference Tables,411.8,2,0,70.006
 22-12-20,2619,CA-2017-115931,Standard Class,JM-15655,Corporate,United States,Carlsbad,New Mexico,88220,West,OFF-AR-10000369,Office Supplies,Art,Design Ebony Sketching Pencil,4.17,3,0,1.0842
 22-12-20,2620,CA-2017-115931,Standard Class,JM-15655,Corporate,United States,Carlsbad,New Mexico,88220,West,TEC-PH-10001300,Technology,Phones,"iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5, 4S 4",67.04,4,0.2,6.704
